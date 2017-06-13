@@ -7,19 +7,19 @@
     "dev": "UA-43643469-9"
   },
   "organizer": {
-    "name": "GDG Lviv",
-    "twitter": "gdglviv"
+    "name": "GDG Goiânia",
+    "twitter": "gdggoiania"
   },
   "webapp": {
     "shortName": "DevFest",
-    "themeColor": "#F57C00",
-    "backgroundColor": "#F57C00"
+    "themeColor": "#4caf50",
+    "backgroundColor": "#4caf50"
   },
   "firebase": {
-    "name": "hoverboard-experimental",
-    "domain": "hoverboard-experimental.firebaseapp.com",
-    "database": "https://hoverboard-experimental.firebaseio.com",
-    "api": "AIzaSyALDa2D7CMhK_wt2VkET1MaJuQXYVUJd2I",
+    "name": "devfestcerrado-71206",
+    "domain": "devfestcerrado-71206.firebaseapp.com",
+    "database": "https://devfestcerrado-71206.firebaseio.com",
+    "api": "AIzaSyARBdQVIQgGrIhNloA5D7iTn_yW9xX5sFM",
     "userSessionsPath": "/userSessions",
     "ratingsPath": "/ratings",
     "indexedDbSession": "hoverboard"
@@ -28,7 +28,11 @@
     "url": "https://gdg.us11.list-manage.com/subscribe/post?u=b7e853a79164ddfdbda3ed77b&amp;id=7993e39fbe",
     "name": "b_b7e853a79164ddfdbda3ed77b_7993e39fbe"
   },
-  "hashtag": "dfua",
+  "dateFormat": {
+    "locale": "pt-BR",
+    "blog": {"month": "short", "day": "numeric", "year": "numeric"}
+  },
+  "hashtag": "devfestCerrado17",
   "disqusShortName": "hoverboard-gdg-x",
   "tweetsSource": "/data/tweets.json",
   "partnershipProposition": "http://bit.ly/df16-sponsor",
@@ -44,6 +48,7 @@
       "permalink": "/blog/"
     },
     {
+      "name": "programação",
       "route": "schedule",
       "permalink": "/schedule/"
     },
@@ -80,22 +85,23 @@
   ],
   "location": {
     "apiKey": "",
-    "name": "Pivdennyi Expo Center",
-    "address": "36 Shchyretska St, Lviv, Ukraine",
-    "link": "https://www.facebook.com/expopivdennij",
+    "name": "Espaço Equatore",
+    "address": "Av. T-3, 1494 - St. Bueno, Goiânia",
+    "link": "http://www.espacoequatore.com.br/",
     "pointer": {
-      "latitude": 49.809841,
-      "longitude": 23.972805,
+      "latitude": -16.701248,
+      "longitude": -49.277361,
       "zoom": 15
     },
     "mapCenter": {
-      "latitude": 49.809841,
-      "longitude": 23.982805
+      "latitude": -16.701248,
+      "longitude": -49.277361
     },
     "images": [
       "/images/backgrounds/location_1.jpg",
       "/images/backgrounds/location_2.jpg",
-      "/images/backgrounds/location_3.jpg"
+      "/images/backgrounds/location_3.jpg",
+      "/images/backgrounds/location_4.jpg"
     ]
   },
   "gallery": {
@@ -112,14 +118,14 @@
     "home": {
       "title": "Home",
       "headerSettings": {
-        "backgroundColor": "#FF9800",
+        "backgroundColor": "#4caf50",
         "backgroundImage": "/images/backgrounds/home.png",
         "fontColor": "#fff",
         "tabBarColor": "#fff",
         "video": {
-          "title": "GDG DevFest Ukraine 2016",
-          "youtubeId": "TdpbgRgz6eE",
-          "text": "See how it was in 2016"
+          //          "title": "GDG DevFest Cerrado 2017",
+          //          "youtubeId": "TdpbgRgz6eE",
+          //          "text": "See how it was in 2016"
         },
         "hideLogo": true,
         "minHeight": "360px"
@@ -134,7 +140,7 @@
       }
     },
     "speakers": {
-      "title": "Speakers",
+      "title": "Palestrantes",
       "headerSettings": {
         "backgroundColor": "#3f51b5",
         "fontColor": "#fff",
@@ -142,7 +148,7 @@
       }
     },
     "schedule": {
-      "title": "Schedule",
+      "title": "Programação",
       "headerSettings": {
         "backgroundColor": "#673ab7",
         "fontColor": "#fff",
@@ -158,7 +164,7 @@
       }
     },
     "cod": {
-      "title": "Cod of Conduct",
+      "title": "Código de conduta",
       "headerSettings": {
         "backgroundColor": "#673ab7",
         "fontColor": "#fff",
