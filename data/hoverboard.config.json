@@ -1,7 +1,7 @@
 {
-  "url": "https://hoverboard.firebaseapp.com/",
-  "startDate": "2016-09-09T09:00:00+03:00",
-  "endDate": "2016-09-10T19:00:00+03:00",
+  "url": "http://devfestcerrado.com.br/",
+  "startDate": "2017-30-09T08:00:00+03:00",
+  "endDate": "2017-30-09T18:00:00+03:00",
   "analytics": {
     "prod": "UA-43643469-8",
     "dev": "UA-43643469-9"
@@ -30,12 +30,16 @@
   },
   "dateFormat": {
     "locale": "pt-BR",
-    "blog": {"month": "short", "day": "numeric", "year": "numeric"}
+    "blog": {
+      "month": "short",
+      "day": "numeric",
+      "year": "numeric"
+    }
   },
   "hashtag": "devfestCerrado17",
   "disqusShortName": "hoverboard-gdg-x",
   "tweetsSource": "/data/tweets.json",
-  "partnershipProposition": "http://bit.ly/df16-sponsor",
+  "partnershipProposition": "https://docs.google.com/presentation/d/18rd5dUKnUxPVfBqn73z4ImoHnz7y_HWkwxyrEBNVb3I/edit?usp=sharing",
   "videosSessionsUrl": "https://www.youtube.com/playlist?list=PLt8lEzcLNl31AX3-ONkkWmDOZezu9Cmnv",
   "enableSessionsRating": true,
   "navigation": [
@@ -123,9 +127,9 @@
         "fontColor": "#fff",
         "tabBarColor": "#fff",
         "video": {
-          //          "title": "GDG DevFest Cerrado 2017",
-          //          "youtubeId": "TdpbgRgz6eE",
-          //          "text": "See how it was in 2016"
+          "title": "GDG DevFest Cerrado 2017",
+          "youtubeId": "TdpbgRgz6eE",
+          "text": "See how it was in 2016"
         },
         "hideLogo": true,
         "minHeight": "360px"

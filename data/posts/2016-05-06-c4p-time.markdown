@@ -1,82 +1,65 @@
-GDG DevFest Ukraine 2016 has been announced! The 5th edition of the biggest conference about Google technologies in Ukraine will take on **September 9-10** in an ancient city of Lviv.
+GDG Devfest Cerrado 2017 foi anunciada !!! Em sua 4º Edição será a maior conferencia sobre tecnologias Google da região central do brasil, será realizado no dia **30 de setembro de 2017** na cidade de **Goiânia**.
 
-That means that it is time to open [call for talk submissions](http://bit.ly/df16-c4p). If you are passionate about your work and want to share your experience with the biggest tech audience in Ukraine, you knocked on the right door.
+Está aberta a chamada de trabalhos para o evento.Se você é apaixonado por seu trabalho e quer compartilhar sua experiência com o maior público de tecnologia de Goiás, [submeta seu trabalho](https://docs.google.com/forms/d/1uFRfd34CyjAHJ9A6-U3RHK3JudKB6ZYHqQKrb5r4xJw).
+**No ano passado, o DevFest Cerrado  quebrou todas as expectativas do público**, Com 82%  dos participantes satisfeitos, podemos afirmar que o GDG DevFest Cerrado 2016 foi um grande sucesso.
 
-**Last year DevFest broke all expectations** of the audience, speakers, and even our ones. With **92% of satisfied attendees**, we can claim that GDG DevFest Ukraine 2015 was a great success.
+Para continuar este ano, decidimos nos concentrar em conteúdo. ** Estamos à procura de palestrantes como você **, que estão prontos para oferecer a melhor talk ou workshop.
 
-<div class="quote-container reverse">
-  <div class="quote-photo" style="background-image: url('/2015/images/people/jakub_skvara.jpg')"></div>
-  <div class="quote-text-wrapper">
-    <div class="quote-text">"Devfest Ukraine 2015 was one of the best conferences I've been to. I'm really glad, that I've had a chance to meet great people there, and I would like to thank all organisers of this awesome event."</div>
-    <div class="quote-author">- Jakub Škvára, DevFest '15 Speaker</div>
-  </div>
-</div>
-
-To keep up this year, we decided to focus on the content. **We’re looking for speakers like you**, who are ready to rock the stage and deliver the best talk or workshop in the field.
 <div class="text-center">
-<a href="http://bit.ly/df16-c4p" target="_blank" class="style-scope header-content" style="color: white; ">
-  <paper-button class="primary style-scope header-content x-scope paper-button-0" raised="" role="button" tabindex="0" animated="" aria-disabled="false" elevation="1">Submit a proposal</paper-button>
+<a href="https://docs.google.com/forms/d/1uFRfd34CyjAHJ9A6-U3RHK3JudKB6ZYHqQKrb5r4xJw" target="_blank" class="style-scope header-content" style="color: white; ">
+  <paper-button class="primary style-scope header-content x-scope paper-button-0" raised="" role="button" tabindex="0" animated="" aria-disabled="false" elevation="1">Submita sua proposta</paper-button>
 </a>
 </div>
 
 <br/>
 
-### Why is it cool to be a speaker?
+### Por que é legal ser um palestrante ?
 
-Well, do you know a better way to attend the conference? Here are our top 3 reasons to [submit a proposal](http://bit.ly/df16-c4p).
+1. ** É bom para a sua carreira. ** Ao ser um palestrante, você está provando seu nível de experiência para potenciais parceiros de negócios ou empregadores.
+2. ** É bom para a empresa que você está trabalhando. ** Qualquer apresentação entregue por um empregado acrescenta credibilidade à imagem pública de uma empresa.
+3. ** Rede exclusiva. ** Ser um palestrante significa que você terá chance única de fazer networking com outros palestrantes - os melhores especialistas da área.
 
-1. **It is good for your career.** By being a speaker, you are proving your level of expertise to a potential business partners or employers.
-2. **It is good for the company you’re working for.** Any presentation delivered by an employee adds credibility to a company’s public image.
-3. **Unique networking.** Being a speaker means you’ll have unique chance to network with other speakers - the best experts in the industry.
+### Temas
 
+A organização preparou um conjunto de tópicos interessantes, mas se você tiver alguma idéia legal que você deseja compartilhar que não se encontra na lista, sinta-se à vontade para enviá-la também.
 
-<div class="quote-container">
-  <div class="quote-photo" style="background-image: url('/2015/images/people/juarez_filho.jpg')"></div>
-  <div class="quote-text-wrapper">
-      <div class="quote-text">"I got really impressed with everything... DevFest Ukraine 2015 was a BLAST. … Speakers devoted to bringing great content, and the extra conference activities helped us to become more united as community and friends."</div>
-      <div class="quote-author">Juarez Filho, DevFest '15 Speaker</div>
-  </div>
-</div>
+          📱   Mobile development (iOS and Android)
+          🖥   Frontend
+          ⌨️   Backend (including storage, databases, architecture, high availability, scaling)
+          ☁️   Cloud
+          🕶   Realidade Virtual e Aumentada
+          🤖    Machine learning,
+          🔬   Data science
+          📝   Algorithms
+          📟   Internet das coisas,
+          🚧   Testes
+          ⚙   DevOps
+          🖌   Design
+          💼   Startups
+          🙋   Mulheres em TI
+          📈   Management
+          💹   FinTech
 <br/>
+### Formatos
 
-### Themes and topics – what do we expect?
+          🎤   25 minutos palestras(1-5 minutos para perguntas);
+          🎤   50 minutos palestras(5-10 minutos para perguntas);
+          🖥    2 Horas workshops.
 
-Our team prepared set of interesting topics in but if you have any cool idea you want to share not from this list, feel free to submit it as well.
-
-#### Android
-* New features in N (multi-window, notifications, Java 8)
-* Kotlin
-* RxJava
-* Data Binding
-* Testing and Architecture best practices (MVP, MVVP, Clean Architecture)
-
-#### Web
-* Progressive Web Apps
-* Polymer
-* Service Workers
-* Physical Web
-* RAIL
-
-#### Cloud
-* Machine Learning (TensorFlow, Vision API, Speech API, etc.)
-* Big Data (PubSub, BigQuery, Dataflow)
-* Firebase
-* Kubernetes
-
-<br/>
-
-**Call for Papers will stay open until July 3, 2016.** Don’t miss out :)
+Call for Papers está aberto até o dia ** 31 de julho **
 
 <div class="text-center">
-<a href="http://bit.ly/df16-c4p" target="_blank" class="style-scope header-content" style="color: white; ">
-  <paper-button class="primary style-scope header-content x-scope paper-button-0" raised="" role="button" tabindex="0" animated="" aria-disabled="false" elevation="1">Submit a proposal</paper-button>
+<a href="https://docs.google.com/forms/d/1uFRfd34CyjAHJ9A6-U3RHK3JudKB6ZYHqQKrb5r4xJw" target="_blank" class="style-scope header-content" style="color: white; ">
+  <paper-button class="primary style-scope header-content x-scope paper-button-0" raised="" role="button" tabindex="0" animated="" aria-disabled="false" elevation="1">Submita sua proposta</paper-button>
 </a>
 </div>
+
 <br/>
 
-**Please note:** There is no guarantee that a submission will be put onto the conference agenda! The program committee picks the most interesting talk proposals and informs the selected submitters until July 17, 2016.
+** OBSERVAÇÃO: ** Sua proposta será analisada e caso sua palestra for selecionada, entraremos em contato para mais detalhes, ** Resultados na primeira semana de Agosto **.
 
-Any questions? Email organizers at [devfest@gdg.org.ua](mailto:devfest@gdg.org.ua)
+
+Duvidas ou sugestões? nos envie um e-mail ✉️ [gdggoiania@gmail.com](mailto:gdggoiania@gmail.com)
 
 
 
