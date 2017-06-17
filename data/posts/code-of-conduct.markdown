@@ -1,53 +1,50 @@
-# 1. Purpose
+# Código de conduta
 
+Guia da comunidade, inspirado no [Anti-Harassment Policy da Google](https://support.google.com/developergroups/answer/3340512?hl=en&ref_topic=3340510) para os GDGs. Nós apoiamos também condutas como [Não seja um idiota](https://meta.wikimedia.org/wiki/Don%27t_be_a_jerk).
 
-A primary goal of [GDG Lviv](http://lviv.gdg.org.ua/) is to be inclusive to the largest number of contributors, with the most varied and diverse backgrounds possible. As such, we are committed to providing a friendly, safe and welcoming environment for all, regardless of gender, sexual orientation, ability, ethnicity, socioeconomic status, and religion (or lack thereof). 
-GDG Lviv prides itself on being an open, respectful, and inclusive community. That means the [jerky behavior](https://meta.wikimedia.org/wiki/Don%27t_be_a_jerk) isn’t allowed at GDG meetings.
+### Porque temos um código de conduta para o GDG Devfest Cerrado?
 
-This code of conduct outlines our expectations for all those who participate in our community, as well as the consequences for unacceptable behavior.
-We invite all those who participate in Google Developers Group to help us create safe and positive experiences for everyone.
+Ele cria expectativas de comportamento nos nossos eventos. Só ter um código de conduta pode evitar assédio.
+Ele encoraja pessoas que já tiveram experiências ruins anteriormente a participarem dos nossos eventos.
+Ele dá aos organizadores/voluntários instruções de como lidar com situações de assédio rapidamente, com o mínimo de repercussão nos eventos.
 
-# 2. Open [Source/Culture/Tech] Citizenship
+### O GDG Devfest Cerrado é dedicado a prover um ambiente livre de assédios para todos, independente de:
 
-A supplemental goal of this Code of Conduct is to increase open [source/culture/tech] citizenship by encouraging participants to recognize and strengthen the relationships between our actions and their effects on our community. Communities mirror the societies in which they exist, and positive action is essential to counteract the many forms of inequality and abuses of power that exist in society. If you see someone who is making an extra effort to ensure our community is welcoming, friendly, and encourages all participants to contribute to the fullest extent, we want to know.
+- gênero
+- orientação sexual
+- deficiência
+- identidade de gênero
+- idade
+- raça
+- religião
+- nacionalidade
 
-# 3. Expected Behavior
+*Os itens listados não é uma lista completa - nós não toleraremos nenhum tipo de assédio.*
 
-The following behaviors are expected and requested of all community members:
+Linguagem e imagens de cunho sexual não são apropriados para nenhum evento, incluindo palestras. Participantes de eventos que violarem essas regras poderão ser expulsos do evento e até banidos de futuros eventos, de acordo com os critérios dos organizadores.
 
-- Participate in an authentic and active way. In doing so, you contribute to the health and longevity of this community.
-- Exercise consideration and respect in your speech and actions.
-- Attempt collaboration before a conflict.
-- Refrain from demeaning, discriminatory, or harassing behavior and speech.
-- Be mindful of your surroundings and your fellow participants. Alert community leaders if you notice a dangerous situation, someone in distress, or violations of this Code of Conduct, even if they seem inconsequential.
+### Assédio inclui, mas não está limitado a:
 
-# 4. Unacceptable Behavior
+- comentários verbais ofensivos relacionados a gênero, orientação sexual, deficiência, identidade de gênero, idade, raça, religião
+- imagens sexuais em espaços públicos
+- intimidação deliberada
+- perseguição
+- assédio fotográfico ou em vídeo
+- perturbação constante nas palestras ou outros eventos
+- contato físico inapropriado
+- atenção sexual ou física não solicitada
 
-The following actions are considered harassment and are unacceptable within our community:
+*Participantes que forem pedidos para pararem com um comportamento indevido devem obedecer imediatamente.*
 
-- Violence, threats of violence or violent language directed against another person.
-- Sexist, racist, homophobic, transphobic, ableist or otherwise discriminatory jokes and language.
-- Posting or displaying sexually explicit or violent material.
-- Posting or threatening to post other people’s personally identifying information ("doxing").
-- Personal insults, particularly those related to gender, sexual orientation, race, religion, or disability.
-- Inappropriate photography or recording.
-- Inappropriate physical contact. You should have someone’s consent before touching them.
-- Unwelcome sexual attention. This includes sexualized comments or jokes; inappropriate touching, groping, and unwelcomed sexual advances.
-- Deliberate intimidation, stalking or following (online or in person).
-- Advocating for, or encouraging, any of the above behavior.
-- Sustained disruption of community events, including talks and, presentations.
+Parceiros, expositores e palestrantes também estão sujeitos ao código de conduta. Em particular, estes não devem usar de imagens, atividades ou qualquer outro material de cunho sexual ou criar um ambiente desse tipo em sua apresentação, equipe, material de exibição, itens promocionais ou de demonstração.
 
-#  5. Consequences of Unacceptable Behavior
+Se você está sendo sofrendo algum tipo de assédio, percebeu que alguém está ou tem qualquer outra intenção, por favor, [contate imediatamente](mailto:[gdggoiania@gmail.com]) um organizador ou voluntário. Eles podem ser identificados por camisas ou crachás especiais em eventos ou através de marcações especiais nos meetups, no caso de eventos online. Os organizadores irão investigar o problema e tomar as ações devidas. Isso pode incluir ajudar os participantes a contatarem a segurança ou as autoridades locais, providenciar escoltas ou ajudar de alguma outra forma os que estiverem sofrendo assédio a se sentirem seguros durante o evento.
 
-Unacceptable behavior from any community member, including sponsors and those with decision-making authority, will not be tolerated.
-Anyone asked to stop unacceptable behavior is expected to comply immediately.
-If a community member engages in unacceptable behavior, the community organizers may take any action they deem appropriate, up to and including a temporary ban or permanent expulsion from the community without warning (and without refund in the case of a paid event.
+**Contato:**
+- [gdggoiania@gmail.com](mailto:[gdggoiania@gmail.com])
 
-# 6. Scope
+Apesar de esperarmos que nunca precisemos invocar esse código de conduta, acreditamos que ter esse documento leva todos a uma reflexão sobre como suas ações e palavras afetam toda a comunidade, assim como indivíduos da comunidade.
 
-We expect all community participants to abide by this Code of Conduct in all community venues–online and in-person–as well as in all one-on-one communications about community business. This code of conduct and its related procedures also applies to unacceptable behavior occurring outside the scope of community activities when such behavior has the potential to affect the safety and well-being of community members adversely.
+## Licença e Atribuições
 
-# 7. Contact info
-
-- Oleh Zasadnyy, +38 093 486 64 60, [oleh.zasadnyy@gdg.org.ua](mailto:oleh.zasadnyy@gdg.org.ua)
-- Sofiya Huts, +38 093 486 14 25, [sofia.huts@gmail.com](mailto:sofia.huts@gmail.com)
+Esse código de conduta é licenciado através da licença [Creative Commons Zero](https://creativecommons.org/publicdomain/zero/1.0/). Esse código é baseado em vários outros códigos de conduta, incluindo o Código de Conduta da Ohio LinuxFest, escrito por Esther Filderman e Beth Lynn Eicher, e o Projeto da Conferência Anti-Assédio. Mary Gardiner, Valerie Aurora, Sarah Smith e Donna Benjamin generalizaram as regras e adicionaram materiais de suporte. Membros da LinuxChix e Geek Feminism, além de vários outros grupos, contribuiram para esse trabalho.

@@ -1,0 +1,68 @@
+GDG Devfest Cerrado 2017 foi anunciado!!! Em sua 4º Edição, será a maior conferência sobre tecnologias Google da região central do brasil e será realizado no dia **30 de setembro de 2017** na cidade de **Goiânia**.
+
+Está aberta a chamada de trabalhos para o evento, se você é apaixonado por seu trabalho e quer compartilhar sua experiência com o maior público de tecnologia de Goiás, [submeta seu trabalho](https://docs.google.com/forms/d/1uFRfd34CyjAHJ9A6-U3RHK3JudKB6ZYHqQKrb5r4xJw).
+**No ano passado, o DevFest Cerrado  quebrou todas as expectativas do público**, Com 82%  dos participantes satisfeitos, podemos afirmar que o GDG DevFest Cerrado 2016 foi um grande sucesso.
+
+Para continuar este ano, decidimos nos concentrar em conteúdo. ** Estamos à procura de palestrantes como você **, que estão prontos para oferecer a melhor talk ou workshop.
+
+<div class="text-center">
+<a href="https://docs.google.com/forms/d/1uFRfd34CyjAHJ9A6-U3RHK3JudKB6ZYHqQKrb5r4xJw" target="_blank" class="style-scope header-content" style="color: white; ">
+  <paper-button class="primary style-scope header-content x-scope paper-button-0" raised="" role="button" tabindex="0" animated="" aria-disabled="false" elevation="1">Submita sua proposta</paper-button>
+</a>
+</div>
+
+<br/>
+
+### Por que é legal ser um palestrante ?
+
+1. ** É bom para a sua carreira. ** Ao ser um palestrante, você está provando seu nível de experiência para potenciais parceiros de negócios ou empregadores.
+2. ** É bom para a empresa que você está trabalhando. ** Qualquer apresentação entregue por um empregado acrescenta credibilidade à imagem pública de uma empresa.
+3. ** Rede exclusiva. ** Ser um palestrante significa que você terá chance única de fazer networking com outros palestrantes - os melhores especialistas da área.
+
+### Temas
+
+A organização preparou um conjunto de tópicos interessantes, mas se você tiver alguma idéia legal que você deseja compartilhar que não se encontra na lista, sinta-se à vontade para enviá-la também.
+
+          📱   Mobile development (iOS and Android)
+          🖥   Frontend (Javascript, Angular, Polymer, Pwa)
+          ⌨️   Backend (storage, databases, architecture, high availability, scaling)
+          📱   Kotlin
+          ☁️   Cloud
+          🕶   Realidade Virtual
+          🤖    Machine learning
+          🔬   Big Data
+          📝   Algoritmos
+          📟   Internet das coisas
+          🚧   Testes
+          ⚙   DevOps
+          🖌   Design
+          🖌   Ui/Ux
+          💼   Startups
+          🙋   Mulheres em TI
+          📈   Design Sprint
+          📈   Management
+          💹   FinTech
+<br/>
+### Formatos
+
+          🎤   25 minutos palestras(1-5 minutos para perguntas);
+          🎤   50 minutos palestras(5-10 minutos para perguntas);
+          🖥    2 Horas workshops.
+
+Call for Papers está aberto até o dia ** 31 de julho **
+
+<div class="text-center">
+<a href="https://docs.google.com/forms/d/1uFRfd34CyjAHJ9A6-U3RHK3JudKB6ZYHqQKrb5r4xJw" target="_blank" class="style-scope header-content" style="color: white; ">
+  <paper-button class="primary style-scope header-content x-scope paper-button-0" raised="" role="button" tabindex="0" animated="" aria-disabled="false" elevation="1">Submita sua proposta</paper-button>
+</a>
+</div>
+
+<br/>
+
+** OBSERVAÇÃO: ** Sua proposta será analisada e caso sua palestra for selecionada, entraremos em contato para mais detalhes, ** Resultados na primeira semana de Agosto **.
+
+
+Duvidas ou sugestões? nos envie um e-mail ✉️ [gdggoiania@gmail.com](mailto:gdggoiania@gmail.com)
+
+
+

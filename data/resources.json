@@ -19,23 +19,23 @@
   "soldOutTickets": "Esgotado",
   "socialTitle": "Social",
   "socialMotto": "Siga a gente, curta, ou mande-nos uma menssagem",
-  "beforeHashtag": "What's up",
+  "beforeHashtag": "O que está acontecendo ?",
   "clickToViewPhotos": "Clique aqui para ver mais fotos",
   "partners": "Parceiros",
   "becomePartner": "Torna-se um parceiro",
   "featuredVideosTitle": "Destaques Devfest Cerrado 2016",
   "featuredVideosViewAll": "Ver todos videos",
-  "featuredPeopleTitle": "Palestrantes Rockstar",
+  "featuredPeopleTitle": "Palestrantes em breve",
   "featuredPeopleViewAll": "Ver todos palestrantes",
   "action": "Olhe como foi",
   "locationTitle": "Espaço Equatore",
   "locationDescription": "Espaço Equatore é aconchegante e de facil acesso.",
   "locationAddress": "Av. T-3, 1494 - St. Bueno, Goiânia - GO",
   "organizerTitle": "Organizador",
-  "aboutOrganizers": "<a href='http://lviv.gdg.org.ua' target='_blank'>GDG Lviv</a> with support of 10 GDGs from all around Ukraine is proud organizer of DevFest Ukraine",
-  "openTeamPage": "Ir para time",
+  "aboutOrganizers": "<a href='http://gdggoiania.org' target='_blank'>GDG Goiânia</a> com ajuda do GDG Itumbiara, GDG Rio Verde, GDG Senador Canedo e GDG Uberaba",
+  "openTeamPage": "",
   "whatIsGdg": "O que é GDG?",
-  "aboutGdg": "Um GDG – Google Developer Group – pode ter várias formas: apenas um grupo pequeno de pessoas que se reúnem para assistir a um vídeo mais recente sobre alguma tecnologia Google ou ainda grandes encontros com demonstrações e palestras.",
+  "aboutGdg": "Grupo de Desenvolvedores do Google (GDG) é uma comunidade global de pessoas interessadas em aprender, utilizar e promover as tecnologias oferecidas pelo Google.",
   "readMore": "Leia mais",
   "copyLink": "Copiar link",
   "filteredBy": "Filtrar por",
@@ -43,8 +43,8 @@
   "filter": "Filtro",
   "latestNews": "Ultimas noticias",
   "continueReading": "Continue lendo",
-  "viewPresentation": "Olhar aprensentação",
-  "viewVideo": "Olhar video",
+  "viewPresentation": "Veja apresentação",
+  "viewVideo": "Ver video",
   "skills": "Skills",
   "share": "Compartilhar",
   "shareWith": "Compartilhar com",
@@ -62,11 +62,6 @@
     {
       "title": "Para visitantes",
       "links": [
-        {
-          "text": "Team",
-          "url": "/team/",
-          "newTab": false
-        },
         {
           "text": "Codigo de conduta",
           "url": "/cod/",
@@ -107,7 +102,7 @@
     },
     {
       "counter": 1,
-      "caption": "Dias"
+      "caption": "Dia"
     },
     {
       "counter": "30+",
@@ -119,7 +114,7 @@
     }
   ],
   "callToAction": {
-    "videoTitle": "GDG DevFest 2016",
+    "videoTitle": "GDG DevFest 2017",
     "videoId": "DfMnJAzOFng"
   }
 }

@@ -22,7 +22,7 @@
     "api": "AIzaSyARBdQVIQgGrIhNloA5D7iTn_yW9xX5sFM",
     "userSessionsPath": "/userSessions",
     "ratingsPath": "/ratings",
-    "indexedDbSession": "hoverboard"
+    "indexedDbSession": "devfestcerrado"
   },
   "mailchimp": {
     "url": "https://gdg.us11.list-manage.com/subscribe/post?u=b7e853a79164ddfdbda3ed77b&amp;id=7993e39fbe",
@@ -37,10 +37,10 @@
     }
   },
   "hashtag": "devfestCerrado17",
-  "disqusShortName": "hoverboard-gdg-x",
-  "tweetsSource": "/data/tweets.json",
+  "disqusShortName": "",
+  "tweetsSource": "",
   "partnershipProposition": "https://docs.google.com/presentation/d/18rd5dUKnUxPVfBqn73z4ImoHnz7y_HWkwxyrEBNVb3I/edit?usp=sharing",
-  "videosSessionsUrl": "https://www.youtube.com/playlist?list=PLt8lEzcLNl31AX3-ONkkWmDOZezu9Cmnv",
+  "videosSessionsUrl": "",
   "enableSessionsRating": true,
   "navigation": [
     {
@@ -59,36 +59,28 @@
     {
       "route": "speakers",
       "permalink": "/speakers/"
-    },
-    {
-      "route": "team",
-      "permalink": "/team/"
     }
+
   ],
   "social": [
     {
       "name": "twitter",
-      "nickname": "GDGLviv",
-      "url": "https://twitter.com/gdglviv"
+      "nickname": "GDGgoiania",
+      "url": "https://twitter.com/gdggoiania"
     },
     {
       "name": "gplus",
-      "nickname": "102444623953913144164",
-      "url": "https://plus.google.com/102444623953913144164"
+      "nickname": "GDGgoiania",
+      "url": "https://plus.google.com/u/0/b/113297226237632387507/"
     },
     {
       "name": "facebook",
-      "nickname": "GDGLviv",
-      "url": "https://www.facebook.com/GDGLviv"
-    },
-    {
-      "name": "linkedin",
-      "nickname": "google-developers-group-lviv",
-      "url": "https://www.linkedin.com/company/google-developers-group-lviv"
+      "nickname": "GDGgoiania",
+      "url": "https://www.facebook.com/gdggoiania"
     }
   ],
   "location": {
-    "apiKey": "",
+    "apiKey": "AIzaSyDXBKrap9qFrDylXozlqP6zpw8A5DoLyiQ",
     "name": "Espaço Equatore",
     "address": "Av. T-3, 1494 - St. Bueno, Goiânia",
     "link": "http://www.espacoequatore.com.br/",
@@ -109,7 +101,7 @@
     ]
   },
   "gallery": {
-    "albumUrl": "https://plus.google.com/events/gallery/cc6tosp4ohkp6qj9pg5jb4g6o3k?sort=1",
+    "albumUrl": "https://plus.google.com/events/gallery/ceaacdpm9r2dgopp37t5e00hthk?sort=1",
     "photos": {
       "big": "/images/backgrounds/2015_1.jpg",
       "small": [
@@ -155,14 +147,6 @@
       "title": "Programação",
       "headerSettings": {
         "backgroundColor": "#673ab7",
-        "fontColor": "#fff",
-        "tabBarColor": "#fff"
-      }
-    },
-    "team": {
-      "title": "Team",
-      "headerSettings": {
-        "backgroundColor": "#009688",
         "fontColor": "#fff",
         "tabBarColor": "#fff"
       }
