@@ -38,7 +38,7 @@
       }
 
       .punch {
-        background: var(--background-color);
+        /*background: var(--background-color);*/
         border-radius: 50%;
         width: 40px;
         height: 40px;
@@ -123,7 +123,7 @@
       }
     </style>
 
-    <div class="punch"></div>
+    <div class="punch" style="background:{{color}}"></div>
     <div class="inner">
       <div class="main">
         <div class="headline">[[currency]][[price]]</div>
@@ -170,6 +170,10 @@
           },
 
           info: {
+            type: String
+          },
+
+          color: {
             type: String
           },
 

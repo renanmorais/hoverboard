@@ -114,8 +114,8 @@
     "home": {
       "title": "Home",
       "headerSettings": {
-        "backgroundColor": "#4caf50",
-        "backgroundImage": "/images/backgrounds/home.png",
+        "backgroundColor": "#81c784",
+        "backgroundImage": "",
         "fontColor": "#fff",
         "tabBarColor": "#fff",
         "video": {

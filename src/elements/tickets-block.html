@@ -17,7 +17,7 @@
         --iron-icon-fill-color: var(--text-primary-color);
         --paper-card-background-color: #FFFFFF;
         display: block;
-        background: var(--default-primary-color);
+        background: var(--dark-ticket-color);
         color: var(--text-primary-color);
         text-align: center;
       }
@@ -78,7 +78,8 @@
             ends="[[ticket.ends]]"
             info="[[ticket.info]]"
             sold-out="[[ticket.soldOut]]",
-            sold-out-text="{$ soldOutTickets $}">
+            sold-out-text="{$ soldOutTickets $}"
+            color="[[ticket.color]]">
           </ticket-element>
         </template>
       </div>
