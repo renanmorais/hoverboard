@@ -23,31 +23,32 @@ Para continuar este ano, decidimos nos concentrar em conteúdo. ** Estamos à pr
 
 A organização preparou um conjunto de tópicos interessantes, mas se você tiver alguma idéia legal que você deseja compartilhar que não se encontra na lista, sinta-se à vontade para enviá-la também.
 
-          📱   Mobile development (iOS and Android)
-          🖥   Frontend (Javascript, Angular, Polymer, Pwa)
-          ⌨️   Backend (storage, databases, architecture, high availability, scaling)
-          📱   Kotlin
-          ☁️   Cloud
-          🕶   Realidade Virtual
-          🤖    Machine learning
-          🔬   Big Data
-          📝   Algoritmos
-          📟   Internet das coisas
-          🚧   Testes
-          ⚙   DevOps
-          🖌   Design
-          🖌   Ui/Ux
-          💼   Startups
-          🙋   Mulheres em TI
-          📈   Design Sprint
-          📈   Management
-          💹   FinTech
+             📱 * Android
+             📱 * IOS
+             🖥 * Frontend (Javascript, Angular, Polymer, PWA)
+          	⌨	 * Backend (storage, databases, architecture, high availability, scaling)
+            ⚙	 * Google APIs
+          	🔬	 * Firebase
+          	📱	 * Kotlin
+          	☁	 * Cloud
+          	🕶	 * Realidade Virtual
+          	🤖	 * Machine learning
+          	🔬	 * Big Data
+          	📝	 * Algoritmos
+          	📟	 * Internet das coisas
+          	🚧	 * Testes
+          	⚙	 * DevOps
+          	🖌	 * Design
+          	🖌	 * Ui/Ux
+          	💼	 * Startups
+          	🙋	 * Mulheres em TI
+          	📈 * Design Sprint
+             📝  * E muito mais!
 <br/>
 ### Formatos
 
           🎤   25 minutos palestras(1-5 minutos para perguntas);
           🎤   50 minutos palestras(5-10 minutos para perguntas);
-          🖥    2 Horas workshops.
 
 Call for Papers está aberto até o dia ** 31 de julho **
 
