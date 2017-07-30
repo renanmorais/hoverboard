@@ -3,8 +3,8 @@
   "startDate": "2017-30-09T08:00:00+03:00",
   "endDate": "2017-30-09T18:00:00+03:00",
   "analytics": {
-    "prod": "UA-43643469-8",
-    "dev": "UA-43643469-9"
+    "prod": "UA-103548763-1",
+    "dev": "UA-103548763-1"
   },
   "organizer": {
     "name": "GDG Goiânia",
@@ -59,6 +59,11 @@
     {
       "route": "speakers",
       "permalink": "/speakers/"
+    },
+    {
+      "name":"Organização",
+      "route": "team",
+      "permalink": "/team/"
     }
 
   ],
@@ -115,7 +120,7 @@
       "title": "Home",
       "headerSettings": {
         "backgroundColor": "#81c784",
-        "backgroundImage": "",
+        "backgroundImage": "https://uploaddeimagens.com.br/images/001/017/558/original/WhatsApp_Image_2017-07-30_at_00.26.02.jpeg?1501385282",
         "fontColor": "#fff",
         "tabBarColor": "#fff",
         "video": {
@@ -147,6 +152,14 @@
       "title": "Programação",
       "headerSettings": {
         "backgroundColor": "#673ab7",
+        "fontColor": "#fff",
+        "tabBarColor": "#fff"
+      }
+    },
+    "team": {
+      "title": "Organização",
+      "headerSettings": {
+        "backgroundColor": "#009688",
         "fontColor": "#fff",
         "tabBarColor": "#fff"
       }
