@@ -33,7 +33,7 @@
   "locationAddress": "Av. T-3, 1494 - St. Bueno, Goiânia - GO",
   "organizerTitle": "Organizadores",
   "aboutOrganizers": "Parcerias entre os Gdgs: GDG Goiânia, GDG Itumbiara, GDG Rio Verde, GDG Senador Canedo e GDG Uberaba",
-  "openTeamPage": "",
+  "openTeamPage": "Organização",
   "whatIsGdg": "O que é GDG?",
   "aboutGdg": "Grupo de Desenvolvedores do Google (GDG) é uma comunidade global de pessoas interessadas em aprender, utilizar e promover as tecnologias oferecidas pelo Google.",
   "readMore": "Leia mais",
@@ -50,7 +50,7 @@
   "shareWith": "Compartilhar com",
   "signIn": "Login",
   "signOut": "Logout",
-  "mySchedule": "Meu Horário",
+  "mySchedule": "Minha Programação",
   "browseMore": "Procure outros eventos",
   "youShouldSignInSessions": "Faça login para salvar sessões",
   "youShouldSignInRating": "Faça login para avaliar as sessões",
@@ -62,6 +62,11 @@
     {
       "title": "Para visitantes",
       "links": [
+        {
+          "text": "Organização",
+          "url": "/team/",
+          "newTab": false
+        },
         {
           "text": "Codigo de conduta",
           "url": "/cod/",
@@ -93,8 +98,8 @@
       }
     ]
   },
-  "teamPageTitle": "Team",
-  "teamPageText": "Google is known all around the world. Everyone is 'googling', checking on 'maps' and communicating in 'gmail'. For simple users, they are services that just works, but not for us. Developers see much more: APIs, scalability issues, complex technology stacks. And that is what GDG is about.<br><br> [Google Developers Group (GDG) Lviv](http://lviv.gdg.org.ua/) - is open and volunteer geek community who create exciting projects and share experience about Google technologies with a passion.<br><br> Our goal is to organize space to connect the best industry experts with Ukrainian audience to boost development of IT.",
+  "teamPageTitle": "Organização",
+  "teamPageText": "O Google é conhecido em todo o mundo. Todos estão realizando pesquisa no buscador, procurando endereços no Maps, enviando emails com gmail. Para usuários simples, esses serviços apenas funcionam, o que é diferente para nós. \nSomos desenvolvedores e isso muda o jeito que vemos as coisas, indo muito alem do funcionamento: APIs, problemas de escalabilidade, pilhas complexas de tecnologia. E é ai desse tipo de coisas que o GDG apoia.  \n\n Nosso objetivo é organizar um espaço para conectar os melhores especialistas do mercado com o público do Cerrado Brasileiro para impulsionar o desenvolvimento de Tecnologia aqui na região.",
   "statistics": [
     {
       "counter": "700+",
