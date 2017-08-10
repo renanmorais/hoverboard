@@ -5,7 +5,7 @@
   "dates": " 30 de Setembro, 2017",
   "locationAddressShort": "Espaço equatore (Goiânia)",
   "motto": "Participe do maior Devfest das Américas!",
-  "playIcon": "O que aconteceu em 2016 ?",
+  "playIcon": "Devfest Cerrado",
   "c4p": "Bem vindo palestrantes",
   "buyTicket": "Inscrição",
   "backToTop": "Voltar ao topo",
@@ -23,9 +23,9 @@
   "clickToViewPhotos": "Clique aqui para ver mais fotos",
   "partners": "Parceiros",
   "becomePartner": "Torne-se um parceiro",
-  "featuredVideosTitle": "Destaques Devfest Cerrado 2016",
-  "featuredVideosViewAll": "Ver todos videos",
-  "featuredPeopleTitle": "Palestrantes Confimados",
+  "featuredVideosTitle": "Devfest Cerrado 2017",
+  "featuredVideosViewAll": "",
+  "featuredPeopleTitle": "Palestrantes Confirmados",
   "featuredPeopleViewAll": "Ver todos palestrantes",
   "action": "Olhe como foi",
   "locationTitle": "Espaço Equatore",
@@ -120,6 +120,6 @@
   ],
   "callToAction": {
     "videoTitle": "GDG DevFest 2017",
-    "videoId": "DfMnJAzOFng"
+    "videoId": "https://www.youtube.com/watch?v=jsRiXGozNiM"
   }
 }

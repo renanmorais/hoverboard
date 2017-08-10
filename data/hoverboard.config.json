@@ -40,7 +40,7 @@
   "disqusShortName": "",
   "tweetsSource": "",
   "partnershipProposition": "https://docs.google.com/presentation/d/18rd5dUKnUxPVfBqn73z4ImoHnz7y_HWkwxyrEBNVb3I/edit?usp=sharing",
-  "videosSessionsUrl": "",
+  "videosSessionsUrl": "https://www.youtube.com/watch?v=jsRiXGozNiM",
   "enableSessionsRating": true,
   "navigation": [
     {
@@ -125,8 +125,8 @@
         "tabBarColor": "#fff",
         "video": {
           "title": "GDG DevFest Cerrado 2017",
-          "youtubeId": "TdpbgRgz6eE",
-          "text": "See how it was in 2016"
+          "youtubeId": "jsRiXGozNiM",
+          "text": "See how it was in 2017"
         },
         "hideLogo": true,
         "minHeight": "360px"

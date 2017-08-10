@@ -100,6 +100,7 @@
         margin-top: 20px;
         cursor: pointer;
         font-size: 16px;
+        margin-left: 32%;
       }
 
       .open-video iron-icon {
@@ -132,14 +133,14 @@
                           alt="GDG DevFest Cerrado 2017"></iron-image>
               <h3 class="dates">{$ dates $}</h3>
               <h2 class="motto">{$ motto $}</h2>
-              <!--<div class="open-video" on-tap="_openVideo">-->
-                <!--<iron-icon icon="play"></iron-icon>-->
-                <!--{$ playIcon $}-->
-              <!--</div>-->
+              <div class="open-video" on-tap="_openVideo">
+                <iron-icon icon="play"></iron-icon>
+                {$ playIcon $}
+              </div>
               <div class="action-buttons">
                 <paper-button class="primary" on-tap="_scrollToTickets" raised>{$ buyTicket $}</paper-button>
                 <!--<a href="https://docs.google.com/forms/d/1uFRfd34CyjAHJ9A6-U3RHK3JudKB6ZYHqQKrb5r4xJw" target="_blank" class="style-scope header-content" style="color: white; ">-->
-                  <!--<paper-button class="primary style-scope header-content x-scope paper-button-0" raised="" role="button" tabindex="0" animated="" aria-disabled="false" elevation="1">Submeta uma proposta</paper-button>-->
+                <!--<paper-button class="primary style-scope header-content x-scope paper-button-0" raised="" role="button" tabindex="0" animated="" aria-disabled="false" elevation="1">Submeta uma proposta</paper-button>-->
               </div>
 
             </div>
@@ -153,13 +154,13 @@
           </div>
         </animatable-content>
         {% for page, settings in pages %}
-          {% if page !== 'home' and page !== 'blog' %}
-            <animatable-content name="{$ page $}">
-              <div class="container">
-                <h3 class="page-title">{$ settings.title $}</h3>
-              </div>
-            </animatable-content>
-          {% endif %}
+        {% if page !== 'home' and page !== 'blog' %}
+        <animatable-content name="{$ page $}">
+          <div class="container">
+            <h3 class="page-title">{$ settings.title $}</h3>
+          </div>
+        </animatable-content>
+        {% endif %}
         {% endfor %}
       </neon-animated-pages>
     </app-toolbar>

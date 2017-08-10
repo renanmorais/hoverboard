@@ -1,0 +1,1150 @@
+{
+  "partners": [
+    {
+      "logos": [
+        {
+          "logoUrl": "../images/logos/google-developers-m.png",
+          "name": "Google Developers",
+          "url": "https://developers.google.com",
+          "width": 600
+        }
+      ],
+      "title": ""
+    },
+    {
+      "logos": [
+        {
+          "logoUrl": "../images/logos/logo_tampa_flat.svg",
+          "name": "Tampa Works",
+          "url": "https://www.facebook.com/tampaworks/",
+          "width": 200
+        },
+        {
+          "logoUrl": "https://image.ibb.co/iL8YLQ/0.png",
+          "name": "ZG",
+          "url": "https://www.zgsolucoes.com.br/",
+          "width": 200
+        },
+        {
+          "height": 200,
+          "logoUrl": "https://image.ibb.co/fKL7pv/8_D_MARKETING.png",
+          "name": "8D.Marketing"
+        }
+      ],
+      "title": ""
+    },
+    {
+      "logos": [
+        {
+          "height": 200,
+          "logoUrl": "https://uploaddeimagens.com.br/images/001/032/441/full/jetbrains.png?1502213656",
+          "name": "Jetbrains",
+          "url": "https://www.jetbrains.com/"
+        }
+      ],
+      "title": "Apoio"
+    },
+    {
+      "logos": [
+        {
+          "height": 100,
+          "logoUrl": "../images/logos/gdg-goiania.png",
+          "name": "Gdg Goiânia",
+          "width": 300
+        },
+        {
+          "height": 100,
+          "logoUrl": "../images/logos/gdg-itumbiara.png",
+          "name": "Gdg Itumbiara",
+          "width": 300
+        },
+        {
+          "height": 100,
+          "logoUrl": "../images/logos/gdg-rio-verde.png",
+          "name": "Gdg Rio Verde",
+          "width": 300
+        }
+      ],
+      "title": "Organização"
+    },
+    {
+      "logos": [
+        {
+          "height": 100,
+          "logoUrl": "../images/logos/gdg-uberaba.png",
+          "name": "Gdg Uberaba",
+          "width": 300
+        },
+        {
+          "height": 100,
+          "logoUrl": "../images/logos/gdg-senador-canedo.png",
+          "name": "Gdg Senador Canedo",
+          "width": 400
+        }
+      ],
+      "title": " "
+    }
+  ],
+  "schedule": [
+    {
+      "date": "2016-09-30",
+      "dateReadable": "30 Setembro",
+      "timeslots": [
+        {
+          "endTime": "10:10",
+          "sessions": [
+            [
+              101
+            ]
+          ],
+          "startTime": "09:30"
+        },
+        {
+          "endTime": "10:50",
+          "sessions": [
+            [
+              101
+            ],
+            [
+              101
+            ],
+            [
+              101
+            ]
+          ],
+          "startTime": "10:10"
+        },
+        {
+          "endTime": "11:40",
+          "sessions": [
+            [
+              101
+            ],
+            [
+              101
+            ],
+            [
+              101
+            ]
+          ],
+          "startTime": "11:00"
+        },
+        {
+          "endTime": "12:30",
+          "sessions": [
+            [
+              101
+            ],
+            [
+              101
+            ],
+            [
+              101
+            ]
+          ],
+          "startTime": "11:50"
+        },
+        {
+          "endTime": "14:00",
+          "sessions": [
+            [
+              101
+            ]
+          ],
+          "startTime": "12:30"
+        },
+        {
+          "endTime": "14:40",
+          "sessions": [
+            [
+              101
+            ],
+            [
+              101
+            ],
+            [
+              101
+            ]
+          ],
+          "startTime": "14:00"
+        },
+        {
+          "endTime": "15:30",
+          "sessions": [
+            [
+              101
+            ],
+            [
+              101
+            ],
+            [
+              101
+            ]
+          ],
+          "startTime": "14:50"
+        },
+        {
+          "endTime": "16:00",
+          "sessions": [
+            [
+              101
+            ]
+          ],
+          "startTime": "15:30"
+        },
+        {
+          "endTime": "16:40",
+          "sessions": [
+            [
+              101
+            ],
+            [
+              101
+            ],
+            [
+              101
+            ]
+          ],
+          "startTime": "16:00"
+        },
+        {
+          "endTime": "17:30",
+          "sessions": [
+            [
+              101
+            ],
+            [
+              101
+            ],
+            [
+              101
+            ]
+          ],
+          "startTime": "16:50"
+        }
+      ],
+      "tracks": [
+        {
+          "title": "Palestras"
+        }
+      ]
+    }
+  ],
+  "sessions": {
+    "101": {
+      "complexity": "",
+      "description": "",
+      "id": 101,
+      "language": "Portugues",
+      "presentation": "",
+      "speakers": [
+        1
+      ],
+      "tags": [
+        "Android"
+      ],
+      "title": ""
+    }
+  },
+  "speakers": [
+    null,
+    {
+      "badges": [
+        {
+          "description": "Android Google Developer Expert",
+          "link": "https://developers.google.com/experts/people/marcelo-ricardo-quinta",
+          "name": "GDE"
+        }
+      ],
+      "bio": "",
+      "company": "GDE/UFG",
+      "companyLogo": "https://developers.google.com/experts/img/experts-logo.png",
+      "country": "Goiânia - GO , Brasil",
+      "featured": true,
+      "id": 1,
+      "name": "Marcelo Quinta",
+      "photoUrl": "https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAIWAAAAJGQ0MzY4ZDFlLTg2YWQtNDFlMC04MThjLTNmYjJiNzI4NDk2MA.jpg",
+      "shortBio": "GDE android, Intel Innovator, Professor na UFG, Mentor Google Launchpad StartUPs",
+      "socials": [
+        {
+          "icon": "linkedin",
+          "link": "https://br.linkedin.com/in/marcelo-quinta-6444bb22",
+          "name": "LinkedIn"
+        },
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/mrquinta",
+          "name": "Twitter"
+        }
+      ],
+      "tags": [
+        "Android",
+        "Mobile UX"
+      ],
+      "title": "GDE Android"
+    },
+    {
+      "badges": [
+        {
+          "description": "UI-UX Google Developer Expert",
+          "link": "https://developers.google.com/experts/people/bianca-brancaleone",
+          "name": "GDE"
+        }
+      ],
+      "bio": "Sócia do Eu Compraria, Especialista em UX e Google Expert em UX, organizadora do GDG e Women Techmakers de Sorocaba",
+      "company": "GDE/Eu Compraria",
+      "companyLogo": "https://developers.google.com/experts/img/experts-logo.png",
+      "country": "Sorocaba - SP, Brasil",
+      "featured": true,
+      "id": 2,
+      "name": "Bianca Brancaleone",
+      "photoUrl": "https://pbs.twimg.com/profile_images/846441376367759360/HZdoLbi9.jpg",
+      "shortBio": "Sócia do Eu Compraria, Especialista em UX e Google Expert em UX, organizadora do GDG e Women Techmakers de Sorocaba",
+      "socials": [
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/bianca-brancaleone-4328558?ppe=1",
+          "name": "LinkedIn"
+        },
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/biab",
+          "name": "Twitter"
+        }
+      ],
+      "tags": [
+        "UI-UX",
+        "Design Sprint"
+      ],
+      "title": "GDE UI-UX"
+    },
+    {
+      "badges": [
+        {
+          "description": "Android Google Developer Expert",
+          "link": "https://developers.google.com/experts/people/ubiratan-soares",
+          "name": "GDE"
+        }
+      ],
+      "bio": "",
+      "company": "GDE/UFG",
+      "companyLogo": "https://developers.google.com/experts/img/experts-logo.png",
+      "country": "São Paulo, Brasil",
+      "featured": true,
+      "id": 3,
+      "name": "Ubiratan Soares",
+      "photoUrl": "https://avatars3.githubusercontent.com/u/484670?v=4&s=460",
+      "shortBio": "GDE android",
+      "socials": [
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/ubiratanfsoares/?ppe=1",
+          "name": "LinkedIn"
+        },
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/ubiratanfsoares",
+          "name": "Twitter"
+        }
+      ],
+      "tags": [
+        "Android"
+      ],
+      "title": "GDE Android"
+    },
+    {
+      "badges": [
+        {
+          "description": "Cloud Platform Google Developer Expert",
+          "link": "https://developers.google.com/experts/people/daniel-cukier",
+          "name": "GDE"
+        }
+      ],
+      "bio": "Daniel Cukier trabalha com desenvolvimento de software desde 1995, principalmente com Scala e Ruby (Rails). Após 2 anos como CTO da Elo7, tornou-se conselheiro técnico da Monashees Capital. Atualmente é CTO da Playax, uma plataforma de desenvolvimento de audiência para profissionais da música baseada em BigData. Faz parte do grupo de pesquisas em empreendedorismo digital e Startups de Software do IME-USP, onde se tornou PhD em Computação no tema A Evolução dos Ecossistemas de Startups de Software. Daniel é GDE (Google Developer Expert) na área de Cloud Computing.  Fez mestrado também no IME-USP com a dissertação Padrões para Introduzir Novas Ideias na Indústria de Software (veja o vídeo). Ativo na comunidade ágil desde 2005, quando ingressou na Agilcoop, produzindo podcasts, artigos e ministrando cursos sobre agilidade. Introduziu o uso de Métodos Ágeis na Locaweb, maior empresa de hosting da America Latina, onde participou de vários projetos de software na área de SaaS e IaS. Organizou o evento DevOpsDays Brasil, um encontro de desenvolvedores com sysadmins.  É autor do blog AgileAndArt, onde costuma escrever sobre desenvolvimento de software e as artes. Além da presença na área de software, trabalha com teatro, música (toca violão) e poesia.",
+      "company": "GDE",
+      "companyLogo": "https://developers.google.com/experts/img/experts-logo.png",
+      "country": "São Paulo, Brasil",
+      "featured": true,
+      "id": 4,
+      "name": "Daniel Cukier",
+      "photoUrl": "https://developers.google.com/experts/img/user/104200463293521594749.jpg",
+      "shortBio": "GDE cloud platform, trabalha com desenvolvimento de software desde 1995, principalmente com Scala e Ruby (Rails). Após 2 anos como CTO da Elo7, tornou-se conselheiro...",
+      "socials": [
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/danielcukier/?ppe=1",
+          "name": "LinkedIn"
+        },
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/danicuki",
+          "name": "Twitter"
+        }
+      ],
+      "tags": [
+        "Cloud",
+        "Cloud Platform"
+      ],
+      "title": "GDE Cloud Platform"
+    },
+    {
+      "bio": "Sócio do Eu Compraria e da GS Solutions, trabalho como dev freelancer há 5 anos. ",
+      "company": "Eu Compraria",
+      "companyLogo": "https://cdn.awsli.com.br/400x300/465/465030/logo/534f78c1b5.png",
+      "country": "Sorocaba - SP, Brasil",
+      "featured": true,
+      "id": 5,
+      "name": "Guilherme Serrano",
+      "photoUrl": "https://scontent.fgyn2-1.fna.fbcdn.net/v/t1.0-1/p160x160/10441906_10203975400848582_8635728374532306072_n.jpg?oh=4161f57a956a5554aab72cf62433932c&oe=5A397497",
+      "shortBio": "Sócio do Eu Compraria e da GS Solutions, trabalho como dev freelancer há 5 anos. ",
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/gserrano",
+          "name": "Twitter"
+        }
+      ],
+      "tags": [
+        "Web",
+        "JavaScript"
+      ],
+      "title": "Eu Compraria"
+    },
+    {
+      "badges": [
+        {
+          "description": "Android Google Developer Expert",
+          "link": "https://developers.google.com/experts/people/nelson-glauber",
+          "name": "GDE"
+        }
+      ],
+      "bio": "Nelson Glauber é mestre em Engenharia de Software pelo Centro de Estudos e Sistemas Avançados do Recife (CESAR). Trabalha com a plataforma Android desde 2009 e atualmente é engenheiro de software na Mokriya. Também é professor de tecnologias móveis em cursos de extensão, graduação e pós-graduação na Unibratec e em outras instituições do nordeste. Em 2014, foi nomeado pelo Google como primeiro Developer Expert de Android da América Latina. É autor do livro 'Dominando o Android' publicado pela editora Novatec.",
+      "company": "GDE",
+      "companyLogo": "https://developers.google.com/experts/img/experts-logo.png",
+      "country": "Recife - PE, Brasil",
+      "featured": true,
+      "id": 6,
+      "name": "Nelson Glauber",
+      "photoUrl": "https://lh5.googleusercontent.com/-9d3rjXki9ws/AAAAAAAAAAI/AAAAAAAAAAA/QhfkXwpZNcM/s128-c-k/photo.jpg",
+      "shortBio": "Nelson Glauber é mestre em Engenharia de Software pelo Centro de Estudos e Sistemas Avançados do Recife (CESAR). Trabalha com a plataforma Android desde 2009 e....",
+      "socials": [
+        {
+          "icon": "facebook",
+          "link": "https://www.facebook.com/nglaubervasc",
+          "name": "Facebook"
+        },
+        {
+          "icon": "twitter",
+          "link": "https://www.facebook.com/nglauber",
+          "name": "Twitter"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/nglaubervasc/?ppe=1",
+          "name": "Linkedin"
+        }
+      ],
+      "tags": [
+        "Android"
+      ],
+      "title": "GDE Android"
+    },
+    {
+      "badges": [
+        {
+          "description": "Web technologies Google Developer Expert",
+          "link": "https://developers.google.com/experts/people/felipe-moura",
+          "name": "GDE"
+        }
+      ],
+      "bio": "Google Developer Expert em Tecnologias Web, desenvolvedor há mais de 12 anos e co-fundador da BrazilJS e da Nasc.",
+      "company": "GDE",
+      "companyLogo": "https://developers.google.com/experts/img/experts-logo.png",
+      "country": "Porto Alegre - GO , Brasil",
+      "featured": true,
+      "id": 7,
+      "name": "Felipe Moura",
+      "photoUrl": "https://scontent.fpoa8-1.fna.fbcdn.net/v/t1.0-9/20622227_10212617870377749_5147886495888393338_n.jpg?oh=ab4813253cc779c775d75b70b3ecb43f&oe=59FECFF0",
+      "shortBio": "Google Developer Expert em Tecnologias Web, desenvolvedor há mais de 12 anos e co-fundador da BrazilJS e da Nasc.",
+      "socials": [
+        {
+          "icon": "facebook",
+          "link": "https://fb.com/felipenmoura",
+          "name": "Facebook"
+        }
+      ],
+      "tags": [
+        "Web",
+        "JavaScript",
+        "Firebase",
+        "browsers",
+        "Web technologies"
+      ],
+      "title": "GDE Web technologies"
+    },
+    {
+      "badges": [
+        {
+          "description": "Most Value Person",
+          "link": "",
+          "name": "MVP"
+        }
+      ],
+      "bio": "Microsoft MVP, MCP, MCTS, MCPD e MCT. Possui mais de 15 anos de carreira em desenvolvimento de aplicações e se graduou em Ciências da Computação e possui MBA em Gestão de Projetos. É consultor independente, atuante em tecnologia e arquitetura .NET, ALM, DevOps e soluções e negócios em nuvem. É um dos precursores e disseminadores da plataforma.NET no Brasil, ministrou palestras nas principais capitais do país e grandes eventos como o TechEd da Microsoft, TDC, ASP.NET Conference, entre outros, que somam milhares de pessoas nestes últimos anos. É um corredor de rua nato, amante da comida japonesa e viciado em uma boa partida de Fifa XBOX.",
+      "company": "Microsoft MVP",
+      "companyLogo": "https://www.tshooter.com.br/wp-content/uploads/2017/04/MVP_Logo_Horizontal_Preferred_Cyan300_RGB_300ppi.png",
+      "country": "Goiânia - GO , Brasil",
+      "featured": true,
+      "id": 8,
+      "name": "Rodrigo kono",
+      "photoUrl": "https://scontent.fgyn3-2.fna.fbcdn.net/v/t1.0-9/14095700_10157351990160387_8519329661810352959_n.jpg?oh=eb48e396fcadd55e5e26d08c8f54b69f&oe=5A2B07BE",
+      "shortBio": "Microsoft MVP, MCP, MCTS, MCPD e MCT. Possui mais de 15 anos de carreira em desenvolvimento de aplicações e se graduou em Ciências da Computação e possui MBA em Gestão de Projetos. É consultor independente, atuante em tecnologia e arquitetura .",
+      "socials": [
+        {
+          "icon": "facebook",
+          "link": "https://www.facebook.com/rodrigokono.fanpage/",
+          "name": "Facebook"
+        },
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/rodrigokono",
+          "name": "Twitter"
+        }
+      ],
+      "tags": [
+        "MVP",
+        "MCP",
+        "MCTS",
+        "MCPD",
+        "MCT"
+      ],
+      "title": "Microsoft MVP"
+    },
+    {
+      "bio": "Bacharel em Ciência da Computação pela Unicamp,desenvolvedor Android sênior na Mokriya (Cupertino/CA-USA) e fundador do GDG Campinas.Trabalha com Android desde 2010, mas já teve experiência variada, de sistemas desktop a web, em empresas de diversos portes, desde startups de 3 funcionários (já tendo fundado e fechado a própria startup) a empresas maiores como Movile e IBM.",
+      "company": "GDG Campinas",
+      "companyLogo": "https://1.bp.blogspot.com/-GiPHD2TbpZ8/Ujsxw17a6RI/AAAAAAAABcM/XHDCOm_F61c/s200/GDG-program-logo.png",
+      "country": "Campinas - SP , Brasil",
+      "featured": true,
+      "id": 9,
+      "name": "Douglas Drumond",
+      "photoUrl": "https://scontent.fcpq3-1.fna.fbcdn.net/v/t1.0-9/20479494_10156361251039688_361378899573545478_n.jpg?oh=0829e2b6b831457e186a2505bcddded1&oe=59F72566",
+      "shortBio": "Bacharel em Ciência da Computação pela Unicamp, desenvolvedor Android sênior na Mokriya (Cupertino/CA-USA) e fundador do GDG Campinas.",
+      "socials": [
+        {
+          "icon": "facebook",
+          "link": "https://fb.com/drumond",
+          "name": "Facebook"
+        }
+      ],
+      "tags": [
+        "Android"
+      ],
+      "title": "Android"
+    },
+    {
+      "bio": "Empresário, Tecnólogo em Processamento de Dados, desenvolve soluções de controle de acesso, biometria e Internet das Coisas pela Softprime Soluções. Líder da comunidade técnica Override e grupo de estudos Internet dos Trem",
+      "company": "Softprime",
+      "companyLogo": "http://softprime.azurewebsites.net/wp-content/uploads/2014/05/softprime.png",
+      "country": "Goiânia - GO , Brasil",
+      "featured": true,
+      "id": 10,
+      "name": "Marcelo Paiva",
+      "photoUrl": "http://www.joincommunity.com.br/img/speakers/marcelopaiva.jpg",
+      "shortBio": "Empresário, Tecnólogo em Processamento de Dados, desenvolve soluções de controle de acesso, biometria e Internet das Coisas pela Softprime.",
+      "tags": [
+        "IOT"
+      ],
+      "title": "IOT"
+    },
+    {
+      "bio": "Desenvolvedor",
+      "company": "CocoaHeads",
+      "companyLogo": "",
+      "country": "Goiânia - GO , Brasil",
+      "featured": true,
+      "id": 11,
+      "name": "José Lino",
+      "photoUrl": "https://scontent.fgyn3-2.fna.fbcdn.net/v/t1.0-9/14642346_10157802834895727_6654679092536311169_n.jpg?oh=3d2f45a940290704db301204f798e9a9&oe=5A3881D6",
+      "shortBio": "Desenvolvedor",
+      "tags": [
+        "Firebase",
+        "IOS"
+      ],
+      "title": "Firebase"
+    },
+    {
+      "bio": "Trabalho com Tecnologia da Informação há mais de 10 anos, com experiencia em plataforma de infraestrutura e atualmente focado em Governança de TI. Durante minha carreira atuei desde técnico em informatica a gestor de TI, prestando consultoria para diversar empresas de pequeno e grande porte. Graduado em Gestão de Tecnologia da Informação, certificado ITIL V3 e CobiT 4.1",
+      "company": "",
+      "companyLogo": "",
+      "country": "Goiânia - GO , Brasil",
+      "featured": true,
+      "id": 12,
+      "name": "Deivid Veras",
+      "photoUrl": "https://scontent.fgyn3-2.fna.fbcdn.net/v/t1.0-9/19424556_1504889426199074_1746734299294770954_n.jpg?oh=de67b439fb50beea596fcde6c95738fd&oe=59F073C9",
+      "shortBio": "Trabalho com Tecnologia da Informação há mais de 10 anos, com experiencia em plataforma de infraestrutura e atualmente focado em Governança de TI.",
+      "tags": [
+        "Cloud",
+        "Cloud Platform"
+      ],
+      "title": "Cloud"
+    },
+    {
+      "bio": "Desenvolvedor de software na ZG Soluções / CTO na Tippz",
+      "company": "ZG Soluções",
+      "companyLogo": "https://www.zgsolucoes.com.br/public/imagem/layout/logomarca.fw.png",
+      "country": "Goiânia - SP , Brasil",
+      "featured": true,
+      "id": 13,
+      "name": "Frederico Galvão",
+      "photoUrl": "https://avatars2.githubusercontent.com/u/616464",
+      "shortBio": "Desenvolvedor de software na ZG Soluções / CTO na Tippz",
+      "socials": [
+        {
+          "icon": "facebook",
+          "link": "https://www.facebook.com/frederico.costa.galvao",
+          "name": "Facebook"
+        }
+      ],
+      "tags": [
+        "Elastic Search"
+      ],
+      "title": "Elastic Search"
+    },
+    {
+      "bio": "Possui mestrado em Ciência da Computação (2014) na linha de pesquisa de Inteligência Computacional e Sistemas de Recomendação pela Universidade Federal de Goiás (UFG). Cursa doutorado na UFG. É gerente meritocrático de Planejamento e TI na SECIMA (Órgão do Governo do Estado de Goiás). Atua como coordenador de curso Superior de Tecnologia em Análise e Desenvolvimento de Sistemas da Faculdade SENAI Fatesg. Possuí publicações internacionais de grande impacto (Elsevier e IEEE)",
+      "company": "SENAI",
+      "companyLogo": "http://www.pronatec2015.com/wp-content/uploads/2017/03/senai-pe-1.jpg",
+      "country": "Goiânia - SP , Brasil",
+      "featured": true,
+      "id": 14,
+      "name": "Edjalma Queiroz",
+      "photoUrl": "https://scontent.fgyn3-2.fna.fbcdn.net/v/t31.0-8/202346_10200154569967818_2070140384_o.jpg?oh=ae9d2452c8aef02910b72efb90767457&oe=59EC94A1",
+      "shortBio": "Possui mestrado em Ciência da Computação (2014) na linha de pesquisa de Inteligência Computacional e Sistemas de Recomendação pela Universidade Federal de Goiás (UFG). Cursa doutorado na UFG.",
+      "socials": [
+        {
+          "icon": "facebook",
+          "link": "https://www.facebook.com/edjalmaqueiroz",
+          "name": "Facebook"
+        }
+      ],
+      "tags": [
+        "AI"
+      ],
+      "title": "AI"
+    },
+    {
+      "bio": "Cientista da Computação pela Universidade Católica de Brasília, Desenvolvedor de Software desde 2011. Atualmente Engenheiro de software na Systra Engenharia.",
+      "company": "Systra Engenharia",
+      "companyLogo": "",
+      "country": "Brasilia - SP , Brasil",
+      "featured": true,
+      "id": 15,
+      "name": "Jucinei dos Santos",
+      "photoUrl": "http://www.iotweekend.com.br/images/2015rec/fotojucinei.png",
+      "shortBio": "Cientista da Computação pela Universidade Católica de Brasília, Desenvolvedor de Software desde 2011.",
+      "socials": [
+        {
+          "icon": "facebook",
+          "link": "http://www.facebook.com/jucineioficial",
+          "name": "Facebook"
+        }
+      ],
+      "tags": [
+        ""
+      ],
+      "title": ""
+    },
+    {
+      "bio": "Desenvolvedora front-end e UI designer há mais de 5 anos, adora ler sobre tecnologia e principalmente sobre UX. Organizadora do GDG Sorocaba, SorocabaCSS, Rails Girls Sorocaba e CodePen Meetup Brazil, adora compartilhar conhecimento e se envolver em projetos que trazem mais pessoas para a área de tecnologia.",
+      "company": "GDG",
+      "companyLogo": "https://1.bp.blogspot.com/-GiPHD2TbpZ8/Ujsxw17a6RI/AAAAAAAABcM/XHDCOm_F61c/s200/GDG-program-logo.png",
+      "country": "Sorocaba - SP , Brasil",
+      "featured": true,
+      "id": 16,
+      "name": "Amanda Vilela",
+      "photoUrl": "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAm5AAAAJDMzYzhjMmUzLTI5MTUtNGEwZi05N2NmLTQyNWUwNDgyNWViMw.jpg",
+      "shortBio": "Desenvolvedora front-end e UI designer há mais de 5 anos, adora ler sobre tecnologia e principalmente sobre UX. Organizadora do GDG Sorocaba.",
+      "socials": [
+        {
+          "icon": "facebook",
+          "link": "https://www.facebook.com/a.vilelaaa",
+          "name": "Facebook"
+        }
+      ],
+      "tags": [
+        "Web",
+        "JavaScript",
+        "CSS",
+        "HTML"
+      ],
+      "title": ""
+    },
+    {
+      "bio": "Organizador do grupo DevMT e do GDGCuiabá. Já deu cursos e palestras sobre diversos assuntos, em especial sobre desenvolvimento mobile com Ionic e React Native. Agora reviveu seu espirito maker a vem mantendo um blog sobre automação e internet das coisas. Tem experiência como desenvolvedor na startup Procurix e no Estuda.com. Atualmente analista de TI na SEFAZ-MT.",
+      "company": "GDG",
+      "companyLogo": "https://1.bp.blogspot.com/-GiPHD2TbpZ8/Ujsxw17a6RI/AAAAAAAABcM/XHDCOm_F61c/s200/GDG-program-logo.png",
+      "country": "Cuiabá - MT, Brasil",
+      "featured": true,
+      "id": 17,
+      "name": "Alvaro Viebrantz",
+      "photoUrl": "https://avatars2.githubusercontent.com/u/1615543?v=3&s=460",
+      "shortBio": "Organizador do grupo DevMT e do GDGCuiabá. Já deu cursos e palestras sobre diversos assuntos.",
+      "socials": [
+        {
+          "icon": "facebook",
+          "link": "https://facebook.com/alvarowolfx",
+          "name": "Facebook"
+        }
+      ],
+      "tags": [
+        "IOT",
+        "mobile"
+      ],
+      "title": ""
+    },
+    {
+      "bio": "Fernando Camargo é desenvolvedor full stack web e mobile com experiência em Java EE, Grails, Android, Node.JS e front-end web. Mestre em Engenharia de Computação na UFG, desenvolvedor na ZG Soluções e professor na 3Way. Desenvolve em Java desde começo de 2009 e para Android desde começo 2012. Possui OCJP 6, artigos publicados na Java Magazine, palestras e minicursos apresentados em eventos. Participou do primeiro App Clinic realizado na sede do Google no Brasil representando o aplicativo Soongz da Fibonacci Soluções Ágeis.",
+      "company": "ZG Soluções",
+      "companyLogo": "https://www.zgsolucoes.com.br/public/imagem/layout/logomarca.fw.png",
+      "country": "Goiânia - GO, Brasil",
+      "featured": true,
+      "id": 18,
+      "name": "Fernando Camargo",
+      "photoUrl": "https://scontent.fgyn1-1.fna.fbcdn.net/v/t1.0-9/14484593_1181310845277511_3408956267254584777_n.jpg?oh=212c886a2b734a51c5c683b8c2ef8b66&oe=59D772A1",
+      "shortBio": "Fernando Camargo é desenvolvedor full stack web e mobile com experiência em Java EE, Grails, Android, Node.JS e front-end web. Mestre em Engenharia de Computação na UFG, desenvolvedor na ZG Soluções e professor na 3Way.",
+      "socials": [
+        {
+          "icon": "facebook",
+          "link": "https://www.facebook.com/fernandocamargoti",
+          "name": "Facebook"
+        }
+      ],
+      "tags": [
+        "IOT",
+        "mobile"
+      ],
+      "title": ""
+    },
+    {
+      "bio": "Tecnólogo em Sistemas para Internet pelo Instituto Vianna Junior, Pós-Graduado em Administração de Banco de Dados pelo Centro de Ensino Superior de Juiz de Fora, Bacharel em Sistemas de Informação pela Universidade Federal de Goiás e Mestrando em Ciência da Computação pela Universidade Federal de Goiás. Atualmente é Analista de TI no Comando de Operações Especiais do Exército Brasileiro.",
+      "company": "Exército Brasileiro",
+      "companyLogo": "http://www.eb.mil.br/c/document_library/get_file?uuid=4788ff76-96c7-41c2-abd3-22e3176cde98&groupId=10138",
+      "country": "Goiânia - GO, Brasil",
+      "featured": true,
+      "id": 19,
+      "name": "Marcelo Vieira",
+      "photoUrl": "http://www.ase-jf.com.br/admin/foto.jpeg",
+      "shortBio": "Tecnólogo em Sistemas para Internet pelo Instituto Vianna Junior, Pós-Graduado em Administração de Banco de Dados pelo Centro de Ensino Superior de Juiz de Fora.",
+      "socials": [
+        {
+          "icon": "facebook",
+          "link": "https://www.facebook.com/marcelo.azevedo.9659",
+          "name": "Facebook"
+        }
+      ],
+      "tags": [
+        "web",
+        "Web RTC",
+        "RTC"
+      ],
+      "title": ""
+    },
+    {
+      "bio": "Líder do grupo de usuários Java de Goiás (GOJava). Programador poliglota.",
+      "company": "GO Java",
+      "companyLogo": "",
+      "country": "Goiânia - GO, Brasil",
+      "featured": true,
+      "id": 20,
+      "name": "Rafael Oliveira",
+      "photoUrl": "https://scontent.fgyn3-2.fna.fbcdn.net/v/t1.0-9/19275092_1074857289325324_6726899013228696720_n.jpg?oh=bba6f5973448ecb496dcd6b2502dab9b&oe=59CB5F1E",
+      "shortBio": "Líder do grupo de usuários Java de Goiás (GOJava). Programador poliglota.",
+      "socials": [
+        {
+          "icon": "facebook",
+          "link": "https://www.facebook.com/rafaelbleidi",
+          "name": "Facebook"
+        }
+      ],
+      "tags": [
+        "Java",
+        "Micro-Service",
+        "Cloud",
+        "Cloud Platform"
+      ],
+      "title": ""
+    },
+    {
+      "bio": "Mestra em Ciências pela Universidade Federal de Uberlândia, área de Computação Gráfica. Bacharela em Ciências da Computação pela Universidade Federal de Goiás - Regional Jataí. Professora adjunta da Faculdade de Engenharia de Software da Universidade de Rio Verde - UniRV. Pesquisadora, desenvolvedora e entusiasta das áreas de Realidade Virtual, Realidade Aumentada, Serious Games, Interação Natural (NUI), IHC e Educação. Amante da inovação e do Design Thinking.",
+      "company": "GO Java",
+      "companyLogo": "",
+      "country": "Rio Verde - GO, Brasil",
+      "featured": true,
+      "id": 21,
+      "name": "Vanessa Camargo",
+      "photoUrl": "https://pt.gravatar.com/userimage/109267316/0a4f51e40acf87f3f1a6fa0f14cc633d.jpg?size=200",
+      "shortBio": "Mestra em Ciências pela Universidade Federal de Uberlândia, área de Computação Gráfica.",
+      "tags": [
+        "RV",
+        "RA",
+        "Realidade Aumentada",
+        "Realidade Virtual"
+      ],
+      "title": ""
+    },
+    {
+      "bio": "Professor na Universidade de Rio Verde, Mestre em Engenharia Mecânica, graduado em Sistemas de Informação, Organizador do GDG Rio Verde, Especialista em Arquitetura de Software, Integração de Aplicações, e Dispositivos Móveis, Pesquisando Deep Learning utilizando Google TensorFlow",
+      "company": "GDG",
+      "companyLogo": "https://1.bp.blogspot.com/-GiPHD2TbpZ8/Ujsxw17a6RI/AAAAAAAABcM/XHDCOm_F61c/s200/GDG-program-logo.png",
+      "country": "Rio Verde - GO, Brasil",
+      "featured": true,
+      "id": 22,
+      "name": "Sandro Moreira",
+      "photoUrl": "https://lh3.googleusercontent.com/-79SM5KNyA70/AAAAAAAAAAI/AAAAAAAABCI/HC0uhFS-8yI/s60-p-rw-no/photo.jpg",
+      "shortBio": "Professor na Universidade de Rio Verde, Mestre em Engenharia Mecânica, graduado em Sistemas de Informação...",
+      "socials": [
+        {
+          "icon": "facebook",
+          "link": "https://www.facebook.com/moreira.sandro",
+          "name": "Facebook"
+        }
+      ],
+      "tags": [
+        "TensorFlow",
+        "Python",
+        "Deep Learning"
+      ],
+      "title": ""
+    },
+    {
+      "bio": "Formado em Ciência da computação pela Federal de Sergipe, desenvolvedor Android com 3 anos de experiência dedicado ao desenvolvimento de aplicativos nativos e buscando contribuir e trazer mais desenvolvedores para o mundo do Android. Atualmente trabalha na Stone pagamentos no Rio de Janeiro",
+      "company": "",
+      "companyLogo": "",
+      "country": "Rio de Janeiro - GO, Brasil",
+      "featured": true,
+      "id": 23,
+      "name": "Caique Oliveira",
+      "photoUrl": "https://scontent.fsdu5-1.fna.fbcdn.net/v/t1.0-9/12115954_1054014007972263_4208734643897588707_n.jpg?oh=85a839477e35d9b1d3274d07e3303376&oe=59C6A94A",
+      "shortBio": "Formado em Ciência da computação pela Federal de Sergipe, desenvolvedor Android com 3 anos de experiência dedicado ao desenvolvimento de aplicativos nativos...",
+      "socials": [
+        {
+          "icon": "facebook",
+          "link": "https://www.facebook.com/caique.oliveira.31",
+          "name": "Facebook"
+        }
+      ],
+      "tags": [
+        "Android",
+        "Dagger 2"
+      ],
+      "title": ""
+    },
+    {
+      "bio": "André Márcio de Lima Curvello é Graduado em Engenharia de Computação com ênfase em Sistemas Embarcados pela USP, campus São Carlos, possui MBA em gestão de TI pela UNIFRAN e Mestrado em Ciências pela EESC-USP. Atua como Analista de Tecnologia para Sistemas Embarcados na Padtec S/A, sendo também professor de pós-graduação e instrutor de cursos na área de sistemas embarcados. Como hobby, gosta de programar tudo que pode ser programado, escovando bits sempre ao lado de um bom café. Gosta de compartilhar seu conhecimento por meio de palestras, artigos e vídeos online.",
+      "company": "",
+      "companyLogo": "",
+      "country": "Campinas  - SP, Brasil",
+      "featured": true,
+      "id": 24,
+      "name": "André Curvello",
+      "photoUrl": "http://andrecurvello.com.br/wp-content/uploads/2015/02/andre_curvello_iot-300x300.jpg",
+      "shortBio": "Graduado em Engenharia de Computação com ênfase em Sistemas Embarcados pela USP, campus São Carlos, possui MBA em gestão de TI pela UNIFRAN e Mestrado em Ciências...",
+      "tags": [
+        "IOT"
+      ],
+      "socials": [
+        {
+          "icon": "facebook",
+          "link": "https://www.facebook.com/caique.oliveira.31",
+          "name": "Facebook"
+        }
+      ],
+      "title": ""
+    }
+  ],
+  "team": [
+    {
+      "members": [
+        {
+          "name": "Renan Morais",
+          "photoUrl": "https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/3/005/092/21f/1f31eba.jpg",
+          "socials": [
+            {
+              "icon": "gplus",
+              "link": "https://plus.google.com/u/0/+RenanMoraisC",
+              "name": "Google+"
+            },
+            {
+              "icon": "facebook",
+              "link": "https://www.facebook.com/renanc.morais",
+              "name": "Facebook"
+            },
+            {
+              "icon": "twitter",
+              "link": "https://twitter.com/RenanCMorais",
+              "name": "Twitter"
+            },
+            {
+              "icon": "github",
+              "link": "https://github.com/renanmorais",
+              "name": "Github"
+            }
+          ],
+          "title": "GDG Gôiania"
+        },
+        {
+          "name": "Marcelo Quinta",
+          "photoUrl": "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAIWAAAAJGQ0MzY4ZDFlLTg2YWQtNDFlMC04MThjLTNmYjJiNzI4NDk2MA.jpg",
+          "socials": [
+            {
+              "icon": "gplus",
+              "link": "https://plus.google.com/+MarceloQuinta",
+              "name": "Google+"
+            },
+            {
+              "icon": "facebook",
+              "link": "https://www.facebook.com/marceloquinta",
+              "name": "Facebook"
+            },
+            {
+              "icon": "twitter",
+              "link": "https://twitter.com/mrquinta",
+              "name": "Twitter"
+            }
+          ],
+          "title": "GDG Gôiania"
+        },
+        {
+          "name": "Flavia Suares",
+          "photoUrl": "https://lh3.googleusercontent.com/-aa_3_b7rqQ0/AAAAAAAAAAI/AAAAAAAAiAA/8zoO0U0Cdf4/s60-p-rw-no/photo.jpg",
+          "socials": [
+            {
+              "icon": "twitter",
+              "link": "https://twitter.com/fosuares",
+              "name": "Twitter"
+            },
+            {
+              "icon": "gplus",
+              "link": "https://plus.google.com/u/0/115120257062940245015",
+              "name": "Google"
+            }
+          ],
+          "title": "GDG Gôiania"
+        },
+        {
+          "name": "Erika Morais",
+          "photoUrl": "https://scontent.fgyn2-1.fna.fbcdn.net/v/t1.0-1/p160x160/13346684_10206732154398075_5425196282252121098_n.jpg?oh=ccccb132f2e7d95f85db5b0d91333015&oe=59F32E13",
+          "socials": [
+            {
+              "icon": "gplus",
+              "link": "https://plus.google.com/+ErikaFerraConcaMorais",
+              "name": "Google+"
+            },
+            {
+              "icon": "facebook",
+              "link": "https://www.facebook.com/erika.ferraconca",
+              "name": "Facebook"
+            },
+            {
+              "icon": "twitter",
+              "link": "https://twitter.com/kekaefc",
+              "name": "Twitter"
+            }
+          ],
+          "title": "GDG Senador Canedo"
+        },
+        {
+          "name": "Sandro Moreira",
+          "photoUrl": "https://lh3.googleusercontent.com/-79SM5KNyA70/AAAAAAAAAAI/AAAAAAAABCI/HC0uhFS-8yI/s60-p-rw-no/photo.jpg",
+          "socials": [
+            {
+              "icon": "gplus",
+              "link": "https://google.com/+SandroMoreiraGO",
+              "name": "Google+"
+            },
+            {
+              "icon": "facebook",
+              "link": "https://www.facebook.com/moreira.sandro",
+              "name": "Facebook"
+            },
+            {
+              "icon": "twitter",
+              "link": "https://twitter.com/sandro_moreira",
+              "name": "Twitter"
+            }
+          ],
+          "title": "GDG Rio Verde"
+        },
+        {
+          "name": "Pedro Moura",
+          "photoUrl": "https://scontent.fgyn2-1.fna.fbcdn.net/v/t1.0-1/p160x160/12799094_942320922523276_351170997616807372_n.jpg?oh=993af9029c9a414971de86c260e87463&oe=59F269B6",
+          "socials": [
+            {
+              "icon": "gplus",
+              "link": "https://plus.google.com/+111498633423638482286",
+              "name": "Google+"
+            },
+            {
+              "icon": "facebook",
+              "link": "https://www.facebook.com/pedro.moura.3958",
+              "name": "Facebook"
+            }
+          ],
+          "title": "GDG Uberaba"
+        },
+        {
+          "name": "Murilo Chaves",
+          "photoUrl": "https://scontent.fgyn2-1.fna.fbcdn.net/v/t1.0-1/p160x160/18882085_1289416274505053_3932501061472196049_n.jpg?oh=a017ae46ad66ec7a55350f97d64d144b&oe=5A388E44",
+          "socials": [
+            {
+              "icon": "gplus",
+              "link": "https://plus.google.com/+MuriloChOficial",
+              "name": "Google+"
+            },
+            {
+              "icon": "facebook",
+              "link": "https://www.facebook.com/MuriloCh",
+              "name": "Facebook"
+            }
+          ],
+          "title": "GDG Itumbiara"
+        },
+        {
+          "name": "Sandro Souza",
+          "photoUrl": "https://scontent.fgyn2-1.fna.fbcdn.net/v/t1.0-9/19554613_1815697261790827_7851377622567284797_n.jpg?oh=d10118876a7b50ce56e8628440703e22&oe=5A369521",
+          "socials": [
+            {
+              "icon": "facebook",
+              "link": "https://www.facebook.com/diana.pinchuk.9",
+              "name": "Facebook"
+            }
+          ],
+          "title": "GDG Itumbiara"
+        },
+        {
+          "name": "Joao Pedro",
+          "photoUrl": "https://scontent.fgyn2-1.fna.fbcdn.net/v/t1.0-1/p160x160/14717049_1118202278294739_4036815095362921146_n.jpg?oh=f2d8eab9274d458ea17dcdebb5cb8820&oe=59FCD7A6",
+          "socials": [
+            {
+              "icon": "facebook",
+              "link": "https://www.facebook.com/joaopedrofreitas2011",
+              "name": "Facebook"
+            }
+          ],
+          "title": "GDG Itumbiara"
+        }
+      ],
+      "title": "Organização"
+    },
+    {
+      "members": [
+        {
+          "name": "Franklin Bonfim",
+          "photoUrl": "https://scontent.fgyn2-1.fna.fbcdn.net/v/t1.0-1/p160x160/10172867_744462982251465_431817093660071203_n.jpg?oh=17e488c37936566d5ee743fd752e13b5&oe=5A396264",
+          "socials": [
+            {
+              "icon": "facebook",
+              "link": "https://www.facebook.com/franklin.bonfim.1",
+              "name": "Facebook"
+            }
+          ],
+          "title": "Voluntário"
+        },
+        {
+          "name": "Renan Ofugi",
+          "photoUrl": "https://scontent.fgyn2-1.fna.fbcdn.net/v/t1.0-1/c36.17.604.604/s160x160/17626096_1235723833210044_7680302434493878823_n.jpg?oh=c0d78ffa7c2015c5a8f899a3de4dded8&oe=5A356A49",
+          "socials": [
+            {
+              "icon": "facebook",
+              "link": "https://www.facebook.com/renan.ofugi",
+              "name": "Facebook+"
+            }
+          ],
+          "title": "Voluntário"
+        },
+        {
+          "name": "Gabriel Silva",
+          "photoUrl": "https://scontent.fgyn2-1.fna.fbcdn.net/v/t1.0-1/p160x160/17155375_1798148493841777_6634274637475353027_n.jpg?oh=402bea77c2ff7ff1625e81d92c0de227&oe=5A3986A0",
+          "socials": [
+            {
+              "icon": "facebook",
+              "link": "https://www.facebook.com/gabrielgyns",
+              "name": "Facebook+"
+            }
+          ],
+          "title": "Voluntário"
+        },
+        {
+          "name": "Filipe Bezerra",
+          "photoUrl": "https://scontent.fgyn2-1.fna.fbcdn.net/v/t1.0-9/18920381_1358501424236648_117425426851750808_n.jpg?oh=79cdba7fc8e64974e7fb37842e69867f&oe=5A33DAC3",
+          "socials": [
+            {
+              "icon": "facebook",
+              "link": "https://www.facebook.com/filipebezsousa",
+              "name": "Facebook+"
+            }
+          ],
+          "title": "Voluntário"
+        },
+        {
+          "name": "Ruan Pablo",
+          "photoUrl": "https://scontent.fgyn3-1.fna.fbcdn.net/v/t1.0-9/943919_511229625668394_508451701989125985_n.jpg?oh=b42d81b907dda76c4dec8eaf4faffa63&oe=5A323887",
+          "socials": [
+          ],
+          "title": "Voluntário"
+        },
+        {
+          "name": "Alana Sasse",
+          "photoUrl": "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAArWAAAAJDA3ZjE3Y2QxLWRmODYtNGU4ZS04YzA1LWYyZGU5YTI1NDI0Yw.jpg",
+          "socials": [
+          ],
+          "title": "Voluntário"
+        }
+      ],
+      "title": "Voluntários"
+    }
+  ],
+  "tickets": {
+    "elements": [
+      {
+        "color": "#00c853",
+        "currency": "R$",
+        "ends": "15 Agosto",
+        "info": "",
+        "name": "Lote 1",
+        "price": 65,
+        "soldOut": false,
+        "starts": "15 junho"
+      },
+      {
+        "color": "#ffea00",
+        "currency": "R$",
+        "ends": "10 Setembro",
+        "info": "",
+        "name": "Lote 2",
+        "price": 75,
+        "soldOut": false,
+        "starts": "15 Agosto"
+      },
+      {
+        "color": "#ff1744",
+        "currency": "R$",
+        "ends": "23 Setembro",
+        "name": "Lote 3",
+        "price": 85,
+        "soldOut": false,
+        "starts": "11 Setembro"
+      }
+    ],
+    "url": "https://loja.tampa.works/produto/devfest-cerrado-2017/"
+  },
+  "videos": [
+    {
+      "speakers": "Devfest Cerrado",
+      "thumbnail": "/images/video.jpg",
+      "title": "Devfest Cerrado 2017",
+      "youtubeId": "jsRiXGozNiM"
+    }
+  ]
+}

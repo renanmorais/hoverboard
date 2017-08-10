@@ -50,10 +50,10 @@
       }
 
       /*.image-overlay {*/
-        /*@apply(--layout-fit);*/
-        /*@apply(--opacity-animation);*/
-        /*background: linear-gradient(to bottom, rgba(0, 0, 0, 0.4) 0%, rgba(0, 0, 0, 0) 35%, rgba(0, 0, 0, 0.7) 140%);*/
-        /*height: 100%;*/
+      /*@apply(--layout-fit);*/
+      /*@apply(--opacity-animation);*/
+      /*background: linear-gradient(to bottom, rgba(0, 0, 0, 0.4) 0%, rgba(0, 0, 0, 0) 35%, rgba(0, 0, 0, 0.7) 140%);*/
+      /*height: 100%;*/
       /*}*/
 
       app-header {
@@ -189,10 +189,10 @@
                          speakers="{{speakers}}"></speakers-page>
 
           <!--<schedule-page name="schedule"-->
-                         <!--app="{{app}}"-->
-                         <!--route="{{subRoute}}"-->
-                         <!--schedule="{{schedule}}"-->
-                         <!--sessions="{{sessions}}"></schedule-page>-->
+          <!--app="{{app}}"-->
+          <!--route="{{subRoute}}"-->
+          <!--schedule="{{schedule}}"-->
+          <!--sessions="{{sessions}}"></schedule-page>-->
 
           <team-page name="team"
                      app="{{app}}"></team-page>
@@ -205,12 +205,12 @@
 
     </app-drawer-layout>
 
-    <!--<video-dialog id="videoDialog"-->
-                  <!--video-title="[[video.title]]"-->
-                  <!--youtube-id="[[video.youtubeId]]"-->
-                  <!--entry-animation="scale-up-animation"-->
-                  <!--exit-animation="fade-out-animation"-->
-                  <!--disable-controls="[[!video.disableControls]]"></video-dialog>-->
+    <video-dialog id="videoDialog"
+                  video-title="[[video.title]]"
+                  youtube-id="[[video.youtubeId]]"
+                  entry-animation="scale-up-animation"
+                  exit-animation="fade-out-animation"
+                  disable-controls="[[!video.disableControls]]"></video-dialog>
 
     <toast-element id="toast" app="{{app}}"></toast-element>
 
