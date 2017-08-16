@@ -43,7 +43,7 @@ Para esse ano, esperamos superar nossas expectativas, foi selecionado os melhore
 </div>
 <br/>
 <div class="text-center">
-<a href="https://loja.tampa.works/produto/devfest-cerrado-2017/" target="_blank" class="style-scope header-content" style="color: white; ">
+<a href=""https://credencial.imasters.com.br/devfestcerrado2017"" target="_blank" class="style-scope header-content" style="color: white; ">
   <paper-button class="primary style-scope header-content x-scope paper-button-0" raised="" role="button" tabindex="0" animated="" aria-disabled="false" elevation="1">Inscrições</paper-button>
 </a>
 </div>
