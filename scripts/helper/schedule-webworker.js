@@ -1,5 +1,4 @@
 function getSession(session, day, dayIndex, schedule, speakersRaw) {
-  console.log(session);
   session.mainTag = session.tags ? session.tags[0] : 'General';
   session.day = dayIndex + 1;
 
@@ -31,7 +30,6 @@ function getSession(session, day, dayIndex, schedule, speakersRaw) {
 }
 
 function getEndTime(date, startTime, endTime, totalNumber, number) {
-  console.log(startTime);
   var timezone = new Date().toString().match(/([A-Z]+[\+-][0-9]+.*)/)[1],
     timeStart = new Date(date + ' ' + startTime + ' ' + timezone).getTime(),
     timeEnd = new Date(date + ' ' + endTime + ' ' + timezone).getTime(),
@@ -57,7 +55,6 @@ self.addEventListener('message', function (e) {
           if (session && !session.track) {
             session.track = day.tracks[k];
           }
-          console.log(session);
           session.startTime = timeslot.startTime;
           session.endTime = subSessionsLen > 1 ? getEndTime(day.date, timeslot.startTime, timeslot.endTime, subSessionsLen, l + 1) : timeslot.endTime;
           session.dateReadable = day.dateReadable;
