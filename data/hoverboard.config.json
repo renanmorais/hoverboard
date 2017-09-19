@@ -64,6 +64,11 @@
       "name":"Organização",
       "route": "team",
       "permalink": "/team/"
+    },
+    {
+      "name":"Launchpad Build Cerrado",
+      "route": "build",
+      "permalink": "/build/"
     }
 
   ],
@@ -158,6 +163,15 @@
     },
     "team": {
       "title": "Organização",
+      "headerSettings": {
+        "backgroundColor": "#009688",
+        "fontColor": "#fff",
+        "tabBarColor": "#fff"
+      }
+    },
+
+    "build": {
+      "title": "Launchpad Build Cerrado",
       "headerSettings": {
         "backgroundColor": "#009688",
         "fontColor": "#fff",
