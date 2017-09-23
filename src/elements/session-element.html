@@ -158,6 +158,14 @@
       .speaker-title {
         font-size: 13px;
       }
+
+      .section-photo {
+        width: 35px;
+        position: relative;
+        background-size: contain;
+        height: 35px;
+        border-radius: 50%;
+      }
     </style>
 
     <a
@@ -179,8 +187,8 @@
           <div class="session-content" flex>
             <h2 class="session-title">[[session.title]]</h2>
             <ul class="session-meta">
-              <li hidden$="[[!session.language]]">[[session.language]]</li>
-              <li hidden$="[[!session.complexity]]">[[session.complexity]]</li>
+              <!--<li hidden$="[[!session.language]]">[[session.language]]</li>-->
+              <!--<li hidden$="[[!session.complexity]]">[[session.complexity]]</li>-->
               <li hidden$="[[!session.track.title]]">[[session.track.title]]</li>
             </ul>
           </div>
@@ -225,7 +233,8 @@
 
             <template is="dom-repeat" items="[[session.speakers]]" as="speaker">
               <div class="speaker" layout horizontal center>
-                <iron-icon icon="account"></iron-icon>
+                <!--<iron-icon icon="account"></iron-icon>-->
+                <img src="[[speaker.photoUrl]]" alt="[[speaker.name]]" class="section-photo"/>
                 <div class="person-detail" flex>
                   <span class="speaker-name">[[speaker.name]]</span>
                   <div class="speaker-title">[[speaker.company]] / [[speaker.country]]</div>

@@ -18,7 +18,6 @@
 <link rel="import" href="../behaviors/utils-behavior.html">
 <link rel="import" href="truncate-marked-text.html">
 
-
 <dom-module id="speaker-details">
 
   <template>
@@ -31,6 +30,7 @@
           <paper-icon-button class="back-button" dialog-dismiss icon="arrow-back"></paper-icon-button>
         </a>
         <div class="middle fallback-image-wrapper" hidden$="{{app.isPhoneSize}}">
+          <img src="/images/logo-white.svg" alt="GDG Devfest Cerrado 2017" style="max-width: 140px">
         </div>
         <div id="title" class="bottom title toolbar-title" hidden$="{{!app.isPhoneSize}}">[[speaker.name]]</div>
       </paper-toolbar>
@@ -61,34 +61,33 @@
             </a>
           </template>
         </div>
-      </div>
 
-      <template is="dom-if" if="{{speaker.sessions.length}}">
-        <div class="sections-wrapper content">
-          <h4 class="block-title">{$ sessions $}</h4>
-          <div class="sections">
-            <template is="dom-repeat" items="[[speaker.sessions]]" as="session">
-              <div class="section">
-                <div class="section-info">
-                  <h3 class="section-title">[[session.title]]</h3>
-                  <div class="badges">
-                    <template is="dom-repeat" items="[[session.tags]]" as="tag">
-                      <span class="badge" target="_blank" rel="noopener noreferrer">[[tag]]</span>
-                    </template>
+        <template is="dom-if" if="{{speaker.sessions.length}}">
+          <div class="sections-wrapper content">
+            <h4 class="block-title">{$ sessions $}</h4>
+            <div class="sections">
+              <template is="dom-repeat" items="[[speaker.sessions]]" as="session">
+                <div class="section">
+                  <div class="section-info">
+                    <h3 class="section-title">[[session.title]]</h3>
+                    <div class="badges">
+                      <template is="dom-repeat" items="[[session.tags]]" as="tag">
+                        <span class="badge" target="_blank" rel="noopener noreferrer">[[tag]]</span>
+                      </template>
+                    </div>
+                    <truncate-marked-text
+                      text="[[session.description]]"
+                      characters="220"
+                      break-last-word
+                    ></truncate-marked-text>
+                    <a class="read-more" hidden$="{{!session.day}}" href$="/schedule/day[[session.day]]?sessionId=[[session.id]]" dialog-dismiss>{$ readMore $}</a>
                   </div>
-                  <truncate-marked-text
-                    text="[[session.description]]"
-                    characters="220"
-                    break-last-word
-                  ></truncate-marked-text>
-                  <a class="read-more" href$="/schedule/day[[session.day]]?sessionId=[[session.id]]" dialog-dismiss>{$ readMore $}</a>
-
                 </div>
-              </div>
-            </template>
+              </template>
+            </div>
           </div>
-        </div>
-      </template>
+        </template>
+      </div>
     </paper-scroll-header-panel>
 
   </template>
@@ -96,17 +95,13 @@
   <script>
     (function () {
       'use strict';
-
       Polymer({
-
         is: 'speaker-details',
-
         behaviors: [
           Polymer.PaperDialogBehavior,
           Polymer.NeonAnimationRunnerBehavior,
           HOVERBOARD.UtilsBehavior
         ],
-
         properties: {
           speaker: {
             type: Object,
@@ -114,11 +109,9 @@
             notify: true
           }
         },
-
         listeners: {
           'neon-animation-finish': '_onNeonAnimationFinish'
         },
-
         ready: function () {
           var title = this.$.title;
           addEventListener('paper-header-transform', function (e) {
@@ -128,19 +121,16 @@
             Polymer.Base.translate3d(transform + 'px', 0, 0, title);
           });
         },
-
         _speakerChanged: function () {
           var generatedClass = this._generateClass(this.speaker.tags[0]);
           this.customStyle['--paper-scroll-header-panel-color'] = 'var(--' + generatedClass + ')';
           this._previousBrowserColor = HOVERBOARD.Util.getMetaThemeColor();
           HOVERBOARD.Util.setMetaThemeColor(this.getComputedStyleValue('--' + generatedClass));
-
           if (this.app.isPhoneSize) {
             this.$.scrollHeaderPanel.$.headerBg.style.background = 'linear-gradient(to top, rgba(0, 0, 0, 0.4) -10%, rgba(0, 0, 0, 0.1) 50%), url(' + this.speaker.photoUrl + ') 0 / cover no-repeat';
           }
           this.updateStyles();
         },
-
         _renderOpened: function () {
           if (this.withBackdrop && !this.app.isPhoneSize) {
             this.backdropElement.open();
@@ -152,13 +142,11 @@
           });
           HOVERBOARD.Analytics.trackEvent('speaker', 'open details', this.speaker.name);
         },
-
         _renderClosed: function () {
           HOVERBOARD.Util.setMetaThemeColor(this._previousBrowserColor);
           this.backdropElement.close();
           this.playAnimation('exit');
         },
-
         _onNeonAnimationFinish: function () {
           if (this.opened) {
             Polymer.IronDropdownScrollManager.pushScrollLock(this.$.scrollHeaderPanel);
@@ -167,12 +155,17 @@
             Polymer.IronDropdownScrollManager.removeScrollLock(this.$.scrollHeaderPanel);
             this._finishRenderClosed();
           }
-
         }
-
       });
-
     }());
   </script>
+
+  <style>
+    .header.content {
+
+      overflow: scroll;
+      height: 80%;
+    }
+  </style>
 
 </dom-module>
