@@ -108,20 +108,16 @@
   "buildPageText": "Vamos aos negócios, comunidade! O Launchpad Build Cerrado é um evento para capacitar startups de base tecnológica da nossa região, apoiando suas empresas através de mentorias altamente efetivas dentro do Devfest Cerrado. De quebra, as empresas selecionadas também terão acesso gratuito a todas as palestras do evento, dando ainda mais chance de alcançarem seu verdadeiro potencial através de novas tecnologias e técnicas.Acontecendo durante a tarde de Sábado, 30 de Setembro, o evento contará com dois keynotes de abertura, além de 24 sessões de mentoria dadas por experts na área para startups pré-selecionadas. As áreas são Mobile, Cloud , UX, UI, Machine Learning, Negócios e Investimento. Cada empresa poderá cadastrar até 3 pessoas, que esperamos ser de diferentes áreas para otimizar a experiência. TODOS GANHARÃO ENTRADAS GRATUITAS!",
   "statistics": [
     {
-      "counter": "700+",
-      "caption": "Participantes"
+      "counter": "820",
+      "caption": "Pessoas Confirmadas"
     },
     {
       "counter": 1,
       "caption": "Dia"
     },
     {
-      "counter": "30+",
+      "counter": "35",
       "caption": "Palestas"
-    },
-    {
-      "counter": "3+",
-      "caption": "Trilhas"
     }
   ],
   "callToAction": {
