@@ -199,16 +199,20 @@
                 <iron-icon icon="tags"></iron-icon>
                 <span>[[_joinArray(session.tags)]]</span>
               </div>
-
-              <div hidden$="[[!session.videoId]]" layout horizontal center>
-                <iron-icon icon="video"></iron-icon>
-                <span>Recording available</span>
+              <br>
+              <div hidden$="[[!session.sala]]" layout horizontal center>
+                <iron-icon icon="star"></iron-icon>
+                <span>Sala - [[session.sala]]</span>
               </div>
+              <!--<div hidden$="[[!session.videoId]]" layout horizontal center>-->
+                <!--<iron-icon icon="video"></iron-icon>-->
+                <!--<span>Recording available</span>-->
+              <!--</div>-->
 
-              <div hidden$="[[!session.presentation]]" layout horizontal center>
-                <iron-icon icon="presentation"></iron-icon>
-                <span>Presentation available</span>
-              </div>
+              <!--<div hidden$="[[!session.presentation]]" layout horizontal center>-->
+                <!--<iron-icon icon="presentation"></iron-icon>-->
+                <!--<span>Presentation available</span>-->
+              <!--</div>-->
             </div>
 
             <iron-icon
@@ -320,7 +324,7 @@
         },
 
         _hasBottomMeta: function (session) {
-          return session.tags && session.tags.length || session.presentation || session.videoId;
+          return session.tags && session.tags.length || session.presentation || session.videoId || session.sala;
         }
       });
 

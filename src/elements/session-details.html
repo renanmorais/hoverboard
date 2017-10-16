@@ -96,26 +96,28 @@
         <paper-icon-button class="back-button" dialog-dismiss icon="arrow-back"></paper-icon-button>
         <div class="middle fallback-image-wrapper">
           <!--<iron-image class="fallback-image" src="/images/logo-white.svg"-->
-                      <!--alt="{$ title $}"></iron-image>-->
+          <!--alt="{$ title $}"></iron-image>-->
+          <div class="middle fallback-image-wrapper" hidden$="{{app.isPhoneSize}}">
+            <img src="/images/logo-white.svg" alt="GDG Devfest Cerrado 2017" style="max-width: 140px">
+          </div>
         </div>
       </paper-toolbar>
-      <div class="content">
-        <paper-fab
-          class$="float-button header-action [[fabIcon]]"
-          icon="[[fabIcon]]"
-          session-id$="[[session.id]]"
-          on-tap="toggleMyScheduleSession"
-          disabled$="[[!online]]"
-        ></paper-fab>
-
+      <div class="content header">
+        <!--<paper-fab-->
+          <!--class$="float-button header-action [[fabIcon]]"-->
+          <!--icon="[[fabIcon]]"-->
+          <!--session-id$="[[session.id]]"-->
+          <!--on-tap="toggleMyScheduleSession"-->
+          <!--disabled$="[[!online]]"-->
+        <!--&gt;</paper-fab>-->
         <div class="metadata-wrapper">
           <div class="main-info">
             <div class="info">
               <h1 class="main-title">[[session.title]]</h1>
               <div class="meta highlight">[[session.dateReadable]] / [[session.startTime]] - [[session.endTime]] /
                 [[session.track.title]]
-                <span hidden$="[[!session.language]]">
-                  / [[session.language]]
+                <span hidden$="[[!session.sala]]">
+                  Sala - [[session.sala]]
                 </span>
                 <span hidden$="[[!session.complexity]]">
                   / [[session.complexity]]
@@ -179,37 +181,38 @@
                         disabled$="[[_isRatingDisabled(online, app.user)]]"
                         on-tap="_rate"></rating-element>
         {% endif %}
-      </div>
 
-      <template is="dom-if" if="{{session.speakers.length}}">
-        <div class="sections-wrapper content">
-          <h4 class="block-title">{$ speakers $}</h4>
-          <div class="sections">
-            <template is="dom-repeat" items="[[session.speakers]]" as="speaker">
-              <div class="section">
-                <div class="section-photo" style$="background-image: url('[[speaker.photoUrl]]')"></div>
-                <div class="section-info">
-                  <h3 class="section-title">[[speaker.name]]</h3>
-                  <span class="section-sub-title">[[speaker.company]], [[speaker.country]]</span>
-                  <div class="badges">
-                    <template is="dom-repeat" items="[[speaker.badges]]" as="badge">
-                      <a class="badge" href$="[[badge.link]]" target="_blank"
-                         rel="noopener noreferrer">[[badge.name]]</a>
-                    </template>
+
+        <template is="dom-if" if="{{session.speakers.length}}">
+          <div class="sections-wrapper content">
+            <h4 class="block-title">{$ speakers $}</h4>
+            <div class="sections">
+              <template is="dom-repeat" items="[[session.speakers]]" as="speaker">
+                <div class="section">
+                  <div class="section-photo" style$="background-image: url('[[speaker.photoUrl]]')"></div>
+                  <div class="section-info">
+                    <h3 class="section-title">[[speaker.name]]</h3>
+                    <span class="section-sub-title">[[speaker.company]], [[speaker.country]]</span>
+                    <div class="badges">
+                      <template is="dom-repeat" items="[[speaker.badges]]" as="badge">
+                        <a class="badge" href$="[[badge.link]]" target="_blank"
+                           rel="noopener noreferrer">[[badge.name]]</a>
+                      </template>
+                    </div>
+                    <truncate-marked-text
+                      text="[[speaker.bio]]"
+                      characters="220"
+                      break-last-word
+                    ></truncate-marked-text>
+
+                    <a class="read-more" href$="/speakers/[[speaker.id]]" dialog-dismiss>{$ readMore $}</a>
                   </div>
-                  <truncate-marked-text
-                    text="[[speaker.bio]]"
-                    characters="220"
-                    break-last-word
-                  ></truncate-marked-text>
-
-                  <a class="read-more" href$="/speakers/[[speaker.id]]" dialog-dismiss>{$ readMore $}</a>
                 </div>
-              </div>
-            </template>
+              </template>
+            </div>
           </div>
-        </div>
-      </template>
+        </template>
+      </div>
     </paper-scroll-header-panel>
 
   </template>
@@ -339,5 +342,18 @@
 
     }());
   </script>
+  <style>
+    .header.content {
+      overflow: scroll;
+      height: 80%;
+    }
+
+    .header-action {
+      right: 21px;
+      top: 21px;
+      z-index: 9999;
+      background: #3c5b79;
+    }
+  </style>
 
 </dom-module>

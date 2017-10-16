@@ -74,6 +74,9 @@
                       <template is="dom-repeat" items="[[session.tags]]" as="tag">
                         <span class="badge" target="_blank" rel="noopener noreferrer">[[tag]]</span>
                       </template>
+                      <div hidden$="[[!session.sala]]" layout horizontal center>
+                        <span class="badge" target="_blank" rel="noopener noreferrer">Sala - [[session.sala]]</span>
+                      </div>
                     </div>
                     <truncate-marked-text
                       text="[[session.description]]"
